@@ -54,7 +54,7 @@
 
         <span style="float:left; padding-top: 4px">
       {if isset($settings) && isset($settings.logo_link)}
-            <a href="{$settings.logo_link}">{/if}<img src="{$theme_url}/images/pcpslogo.png" border="0" width="220" />
+            <a href="{$settings.logo_link}">{/if}<img src="{$theme_url}/images/cloudserveforms-logo.png" border="0" width="220" />
             {* <a href="{$settings.logo_link}">{/if}<img src="{$theme_url}/images/logo_{$swatch}2x.png" border="0" width="220" /> *}
                 {if isset($settings) && isset($settings.logo_link)}</a>{/if}
     </span>

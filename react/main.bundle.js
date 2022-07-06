@@ -43403,7 +43403,7 @@ object-assign
                 src: "".concat(
                   t.rootUrl,
                   // "/themes/default/images/logo_green2x.png"
-                  "/themes/default/images/pcpslogo.png"
+                  "/themes/default/images/cloudserveforms-logo.png"
                 ),
                 border: "0",
                 width: "220",
@@ -43418,7 +43418,7 @@ object-assign
               src: "".concat(
                 t.rootUrl,
                 // "/themes/default/images/account_section_left_green2x.png"
-                "/themes/default/images/pcpslogo.png"
+                "/themes/default/images/cloudserveforms-logo.png"
               ),
               border: "0",
               width: "8",
@@ -43433,7 +43433,7 @@ object-assign
               src: "".concat(
                 t.rootUrl,
                 // "/themes/default/images/account_section_right_green2x.png"
-                "/themes/default/images/pcpslogo.png"
+                "/themes/default/images/cloudserveforms-logo.png"
               ),
               border: "0",
               width: "8",
