@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$folder}</b>-kansiossa olevaa <b>{\$fi
 $L["notify_files_unknown_reasons"] = "Näitä tiedostoja ei voitu poistaa tuntemattomista syistä: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Nollaa kenttätyyppi";
 $L["phrase_no_files_to_delete"] = "Ei poistettavia tiedostoja.";
-$L["text_help"] = "Lisätietoja tästä moduulista on <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">ohjeasiakirjoissa</a> lomakkeen työkalut-sivustossa.";
+$L["text_help"] = "Lisätietoja tästä moduulista on <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">ohjeasiakirjoissa</a> lomakkeen työkalut-sivustossa.";
 $L["text_reset_field_type_desc"] = "Tämän alla olevan painikkeen avulla voit palauttaa tämän kenttätyypin uusimpiin tehdasasetuksiin. Yleensä sinun ei tarvitse tehdä tätä, mutta jos kyseessä on epäonnistunut päivitys, tämä on turvallinen tapa varmistaa, että se on ajan tasalla.";
 $L["text_intro_desc"] = "Käytä <a href=\"{\$link}\">Asetuksia &raquo; Tiedostot</a>-sivulla voit määrittää oletustiedostojen latausasetukset. Voit ohittaa nämä asetukset muokkaamalla minkä tahansa lomakekentän Muokkaa lomaketta & raquo; Kentät-välilehti.";
 $L["word_help"] = "auta";

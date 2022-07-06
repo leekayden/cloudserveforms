@@ -181,7 +181,7 @@ $page_vars["head_string"] =<<< END
   <script src="$root_url/global/scripts/manage_views.js?v=4"></script>
 END;
 
-$replacements = array("user_doc_link" => "https://docs.cloudservetechcentral.com");
+$replacements = array("user_doc_link" => "https://docs.forms.cloudservetechcentral.com");
 $page_vars["text_filters_tips"] = General::evalSmartyString($LANG["text_filters_tips"], $replacements);
 $replacements = array("number" => "<input type=\"text\" name=\"num_standard_filter_rows\" id=\"num_standard_filter_rows\" value=\"1\" size=\"2\" />");
 $page_vars["add_standard_filter_num_rows_input_field"] = General::evalSmartyString($LANG["phrase_add_num_rows"], $replacements);

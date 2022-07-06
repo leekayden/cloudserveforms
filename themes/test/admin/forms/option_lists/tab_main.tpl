@@ -207,7 +207,7 @@
         </table>
 
         <div class="margin_top_large">
-            <div style="float:right"><a href="https://docs.cloudservetechcentral.com/userdoc/form_management/option_lists/"
+            <div style="float:right"><a href="https://docs.forms.cloudservetechcentral.com/userdoc/form_management/option_lists/"
                                         target="_blank">{$LANG.phrase_smart_fill_user_documentation}</a></div>
         </div>
         <div class="clear"></div>

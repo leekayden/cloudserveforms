@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Soubor <b>{\$filename}</b> ve složce <b>{\
 $L["notify_files_unknown_reasons"] = "Tyto soubory nebyly odstraněny z neznámých důvodů: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Obnovit typ pole";
 $L["phrase_no_files_to_delete"] = "Žádné soubory, které chcete smazat.";
-$L["text_help"] = "Další informace o tomto modulu naleznete v <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentaci nápovědy</a> na webu nástroje Forms.";
+$L["text_help"] = "Další informace o tomto modulu naleznete v <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentaci nápovědy</a> na webu nástroje Forms.";
 $L["text_reset_field_type_desc"] = "Toto tlačítko níže umožňuje obnovit tento typ pole na nejnovější výchozí nastavení. Obecně to nemusíte dělat, ale v případě neúspěšného upgradu je to bezchybný způsob, jak zajistit, že je to aktuální.";
 $L["text_intro_desc"] = "Použijte <a href=\"{\$link}\">Nastavení &raquo; Soubory</a> a definujte výchozí nastavení nahrávání souborů. Tyto nastavení můžete přepsat úpravou libovolného pole formuláře pomocí formuláře Edit &raquo; Karta Pole.";
 $L["word_help"] = "Pomoc";

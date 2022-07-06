@@ -12,12 +12,12 @@ Accounts module is updated for FT3 support.
 
 ### Documentation
 
-- [https://docs.cloudservetechcentral.com/modules/pages/](https://docs.cloudservetechcentral.com/modules/pages/)
+- [https://docs.forms.cloudservetechcentral.com/modules/pages/](https://docs.forms.cloudservetechcentral.com/modules/pages/)
 
 
 ### Other Links
 
-- [Available CloudserveForms modules](https://modules.cloudservetechcentral.com/)
-- [About CloudserveForms modules](https://docs.cloudservetechcentral.com/userdoc/modules/) 
-- [Installation instructions](https://docs.cloudservetechcentral.com/userdoc/modules/installing/)
-- [Upgrading](https://docs.cloudservetechcentral.com/userdoc/modules/upgrading/)
+- [Available CloudserveForms modules](https://modules.forms.cloudservetechcentral.com/)
+- [About CloudserveForms modules](https://docs.forms.cloudservetechcentral.com/userdoc/modules/) 
+- [Installation instructions](https://docs.forms.cloudservetechcentral.com/userdoc/modules/installing/)
+- [Upgrading](https://docs.forms.cloudservetechcentral.com/userdoc/modules/upgrading/)

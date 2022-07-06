@@ -72,8 +72,8 @@
     </p>
 
     <ul>
-      <li><a href="http://docs.cloudservetechcentral.com/tutorials/api_v2_single_page_form/" target="_blank">{$LANG.phrase_adding_single_page_form}</a></li>
-      <li><a href="http://docs.cloudservetechcentral.com/tutorials/api_v2_multi_page_form/" target="_blank">{$LANG.phrase_adding_multi_page_form}</a></li>
+      <li><a href="http://docs.forms.cloudservetechcentral.com/tutorials/api_v2_single_page_form/" target="_blank">{$LANG.phrase_adding_single_page_form}</a></li>
+      <li><a href="http://docs.forms.cloudservetechcentral.com/tutorials/api_v2_multi_page_form/" target="_blank">{$LANG.phrase_adding_multi_page_form}</a></li>
     </ul>
 
     <p>

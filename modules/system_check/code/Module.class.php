@@ -12,7 +12,7 @@ class Module extends FormToolsModule
 	protected $moduleDesc = "This module offers a few tests to analyze and repair your CloudserveForms installation.";
 	protected $author = "Kayden Lee";
 	protected $authorEmail = "kayden@programmer.net";
-	protected $authorLink = "http://cloudservetechcentral.com";
+	protected $authorLink = "http://forms.cloudservetechcentral.com";
 	protected $version = "2.1.5";
 	protected $date = "2019-03-17";
 	protected $originLanguage = "en_us";

@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Le fichier <b>{\$filename}</b> du dossier <
 $L["notify_files_unknown_reasons"] = "Ces fichiers n'ont pas pu être supprimés pour des raisons inconnues: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Réinitialiser le type de champ";
 $L["phrase_no_files_to_delete"] = "Aucun fichier à supprimer.";
-$L["text_help"] = "Pour plus d'informations sur ce module, veuillez consulter la <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentation d'aide</a> sur le site des outils de formulaire.";
+$L["text_help"] = "Pour plus d'informations sur ce module, veuillez consulter la <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentation d'aide</a> sur le site des outils de formulaire.";
 $L["text_reset_field_type_desc"] = "Ce bouton ci-dessous vous permet de réinitialiser ce type de champ aux dernières valeurs d'usine par défaut. En règle générale, vous n'avez pas à le faire, mais en cas d'échec de la mise à niveau, il s'agit d'un moyen sans faille de vous assurer qu'elle est à jour.";
 $L["text_intro_desc"] = "Utilisez les <a href=\"{\$link}\">Paramètres &raquo; Fichiers</a> pour définir les paramètres de téléchargement de fichier par défaut. Vous pouvez remplacer ces paramètres en modifiant n’importe quel champ de formulaire via la commande Modifier le formulaire &raquo; Onglet Champs.";
 $L["word_help"] = "Aidez-moi";

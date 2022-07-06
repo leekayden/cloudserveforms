@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Il file <b>{\$filename}</b> nella cartella 
 $L["notify_files_unknown_reasons"] = "Questi file non possono essere rimossi a causa di motivi sconosciuti: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Ripristina il tipo di campo";
 $L["phrase_no_files_to_delete"] = "Nessun file da eliminare.";
-$L["text_help"] = "Per ulteriori informazioni su questo modulo, consulta la <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentazione della guida</a> sul sito Strumenti per i moduli.";
+$L["text_help"] = "Per ulteriori informazioni su questo modulo, consulta la <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentazione della guida</a> sul sito Strumenti per i moduli.";
 $L["text_reset_field_type_desc"] = "Questo pulsante qui sotto ti consente di ripristinare questo tipo di campo alle ultime impostazioni di fabbrica. Generalmente non devi farlo, ma in caso di un aggiornamento fallito questo è un modo sicuro per assicurarti che sia aggiornato.";
 $L["text_intro_desc"] = "Utilizza le <a href=\"{\$link}\">impostazioni &raquo; File</a> pagina per definire le impostazioni di caricamento file predefinite. Puoi sovrascrivere quelle impostazioni modificando qualsiasi campo modulo tramite il modulo di modifica &raquo; Scheda Campi.";
 $L["word_help"] = "Aiuto";

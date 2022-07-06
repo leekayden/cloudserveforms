@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$folder}</b>フォルダ内の<b>{\$fi
 $L["notify_files_unknown_reasons"] = "原因不明のため、これらのファイルを削除できませんでした：<b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "フィールドタイプをリセット";
 $L["phrase_no_files_to_delete"] = "削除するファイルがありません。";
-$L["text_help"] = "このモジュールの詳細については、フォームツールサイトの<a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">ヘルプドキュメント</a>をご覧ください。";
+$L["text_help"] = "このモジュールの詳細については、フォームツールサイトの<a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">ヘルプドキュメント</a>をご覧ください。";
 $L["text_reset_field_type_desc"] = "下のこのボタンで、このフィールドタイプを最新の工場出荷時のデフォルトにリセットできます。 通常、これを行う必要はありませんが、アップグレードに失敗した場合は、これを確実に最新のものにするための安全な方法です。";
 $L["text_intro_desc"] = "<a href=\"{\$link}\">設定&raquo;を使用してください。 デフォルトのファイルアップロード設定を定義するファイル</a>ページ。 フォームの編集&raquo;を使ってフォームフィールドを編集することで、これらの設定を上書きすることができます。 [フィールド]タブ";
 $L["word_help"] = "助けて";

@@ -17,7 +17,7 @@ class Module extends FormToolsModule
     protected $moduleDesc = "This module keeps a paper trail of changes to all client accounts, from the moment they were created until they are deleted. It tracks all logins, logout, permission changes and account updates, which can helpful for security auditing purposes.";
     protected $author = "Kayden Lee";
     protected $authorEmail = "kayden@programmer.net";
-    protected $authorLink = "https://cloudservetechcentral.com";
+    protected $authorLink = "https://forms.cloudservetechcentral.com";
     protected $version = "2.0.2";
     protected $date = "2017-12-15";
     protected $originLanguage = "en_us";

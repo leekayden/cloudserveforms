@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "File <b>{\$filename}</b> di folder <b>{\$fo
 $L["notify_files_unknown_reasons"] = "File-file ini tidak dapat dihapus karena alasan yang tidak diketahui: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Setel Ulang Jenis Bidang";
 $L["phrase_no_files_to_delete"] = "Tidak ada file untuk dihapus.";
-$L["text_help"] = "Untuk informasi lebih lanjut tentang modul ini, silakan lihat <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasi bantuan</a> di situs CloudserveForms.";
+$L["text_help"] = "Untuk informasi lebih lanjut tentang modul ini, silakan lihat <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasi bantuan</a> di situs CloudserveForms.";
 $L["text_reset_field_type_desc"] = "Tombol di bawah ini memungkinkan Anda mengatur ulang jenis bidang ini ke default pabrik terbaru. Secara umum Anda tidak perlu melakukan ini, tetapi jika upgrade gagal, ini adalah cara yang gagal untuk memastikan pembaruan.";
 $L["text_intro_desc"] = "Gunakan <a href=\"{\$link}\">Pengaturan &raquo; Halaman File</a> untuk menentukan pengaturan unggah file default. Anda dapat mengganti pengaturan itu dengan mengedit bidang formulir apa pun melalui Formulir Edit &raquo; Tab bidang.";
 $L["word_help"] = "Membantu";

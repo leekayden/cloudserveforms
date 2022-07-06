@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Ni ellid dileu'r ffeil <b>{\$filename}</b> 
 $L["notify_files_unknown_reasons"] = "Ni ellid dileu'r ffeiliau hyn oherwydd rhesymau anhysbys: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Ailosod Math Maes";
 $L["phrase_no_files_to_delete"] = "Dim ffeiliau i'w dileu.";
-$L["text_help"] = "Am ragor o wybodaeth am y modiwl hwn, gweler y ddogfen <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dogfennaeth cymorth</a> ar y safle Offer Ffurflen.";
+$L["text_help"] = "Am ragor o wybodaeth am y modiwl hwn, gweler y ddogfen <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dogfennaeth cymorth</a> ar y safle Offer Ffurflen.";
 $L["text_reset_field_type_desc"] = "Mae'r botwm isod yn eich galluogi i ailosod y math hwn o faes i'r rhagflaenau ffatri diweddaraf. Yn gyffredinol, nid oes rhaid i chi wneud hyn, ond mewn achos o uwchraddio methu, mae hwn yn ffordd ddiffygiol i sicrhau ei fod yn gyfoes.";
 $L["text_intro_desc"] = "Defnyddiwch y <a href=\"{\$link}\">Settings &raquo; Ffeiliau</a> i ddiffinio'r gosodiadau llwythi ffeil rhagosodedig. Gallwch anwybyddu'r gosodiadau hynny trwy olygu maes unrhyw ffurf trwy'r Golygu Ffurflen &raquo; Tab Fields.";
 $L["word_help"] = "Help";

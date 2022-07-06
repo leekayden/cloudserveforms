@@ -176,7 +176,7 @@ $LANG["notify_submissions_and_files_deleted"] = "提交的材料和任何文件�
 $LANG["notify_submissions_copied"] = "<b>{\$num_submissions}</b>份意見書已被複製。";
 $LANG["notify_submissions_deleted"] = "提交的材料被成功刪除。";
 $LANG["notify_submissions_deleted_with_problems"] = "提交的材料被刪除，但遇到下列問題時，試圖刪除以下文件（補）：";
-$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
+$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.forms.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
 $LANG["notify_test_email_not_sent"] = "您的測試郵件無法發送。";
 $LANG["notify_theme_cache_folder_not_writable"] = "這一主題的緩存文件夾不可寫。為了使這一主題<b>{\$folder}</b>文件夾必須具有完全的讀寫權限。";
 $LANG["notify_theme_list_updated"] = "的主題名單已更新。";
@@ -683,7 +683,7 @@ $LANG["special_language_locale"] = "Traditional Chinese";
 $LANG["special_text_direction"] = "ltr";
 $LANG["text_account_settings_page"] = "所有新客戶帳戶將被創建的設置和權限定義如下。要覆蓋一個設置為特定的客戶，請編輯該客戶帳戶和訪問的設置選項卡。";
 $LANG["text_add_form_choose_integration_method"] = "選擇哪種方法要使用整合表單與表格工具。";
-$LANG["text_add_form_code_submission_benefits"] = "此方法使用<a href=\"http://docs.cloudservetechcentral.com/api/\" target=\"_blank\">表格工具API</a> ，包括在主窗體工具腳本。該 API提供了一個數字的有用功能，使工作相結合的形式與表格工具盡可能簡單。沒有任何限制，如何可以提交表單當您使用API​​。您可以提交的內容一氣呵成，或逐頁，你可以添加自己的自定義的服務器端驗證，CAPTCHA圖像，你可以選擇現在提交信息，但只告訴它顯示在Form提交工具UI在以後的日子（見<a href=\"http://docs.cloudservetechcentral.com/api/?page=finalized_submissions\">提交的文件定稿</a>節的API幫助文檔）。";
+$LANG["text_add_form_code_submission_benefits"] = "此方法使用<a href=\"http://docs.forms.cloudservetechcentral.com/api/\" target=\"_blank\">表格工具API</a> ，包括在主窗體工具腳本。該 API提供了一個數字的有用功能，使工作相結合的形式與表格工具盡可能簡單。沒有任何限制，如何可以提交表單當您使用API​​。您可以提交的內容一氣呵成，或逐頁，你可以添加自己的自定義的服務器端驗證，CAPTCHA圖像，你可以選擇現在提交信息，但只告訴它顯示在Form提交工具UI在以後的日子（見<a href=\"http://docs.forms.cloudservetechcentral.com/api/?page=finalized_submissions\">提交的文件定稿</a>節的API幫助文檔）。";
 $LANG["text_add_form_code_submission_drawbacks"] = "為了提交表單數據通過 PHP，您的表單必須位於同一網站，本表格工具的安裝。第二，非技術性和新手表格工具的用戶，這種方法可能有點嚇人第一。但有大量的文件來幫助你，包括兩個簡單的教程整合您的單頁和多頁形式（這些都是鏈接到後面的步驟）。";
 $LANG["text_add_form_direct_submission_benefits"] = "這是最簡單的方式提交您的表格，表格工具。它不需要任何知識的PHP，只需要一個非常小的改動，您的窗體。它非常適合於小型的形式在您要提交的信息只到數據庫，然後將用戶重定向到“三江源”頁面。";
 $LANG["text_add_form_direct_submission_drawbacks"] = "這次提交方法非常簡單易用，但沒有提供多少控制更為複雜的形式。多頁表格或形式，需要服務器端驗證更適合第二種方法：通過表單提交工具的API。";
@@ -704,7 +704,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "你的密碼保護�
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "在另一個標籤 /窗口的這個瀏覽器，登錄到您的窗體，然後單擊刷新頁面下面的按鈕嘗試重新找到的字段。";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "如果沒有上述解決方案的工作，你可能也想嘗試<a href=\"#\" onclick=\"{\$ONCLICK}\">手動上傳的形式進行處理</a> 。";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "有多個字段無法找到網頁的形式指定。這主要是有可能造成其中一個：";
-$LANG["text_add_form_help_link"] = "如果您遇到任何麻煩在這些步驟中，嘗試讀出<a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">用戶文件</a> 。";
+$LANG["text_add_form_help_link"] = "如果您遇到任何麻煩在這些步驟中，嘗試讀出<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">用戶文件</a> 。";
 $LANG["text_add_form_step_1_text_1"] = "以下頁面帶領您通過步驟來配置表格工具來儲存您的表單提交。在繼續之前，請檢查：";
 $LANG["text_add_form_step_1_text_2"] = "您的窗體已創建和它可以通過一個 URL（localhost是罰款）";
 $LANG["text_add_form_step_1_text_3"] = "可以編輯表單";
@@ -713,7 +713,7 @@ $LANG["text_add_form_step_2_para_3"] = "下一步， <a href=\"{\$linktoform}\" 
 $LANG["text_add_form_step_2_para_6"] = "在您的表單提交，包括下面的值。他們可能是通過直接設置 PHP或轉嫁給通過窗體本身。以下是每個例子。在（\$ varname的）是一個哈希（或關聯數組）提交的所有形式的信息 - 這通常是（\$ postvar）或（\$ sessionvar）變量，但它可能是客戶化定制的。";
 $LANG["text_add_form_step_2_text_2"] = "輸入你的網址 “三江源”頁面在這裡。這是你希望人們被引導到後已提交的表格。";
 $LANG["text_add_form_step_3_para_1"] = "此頁面列出了所有領域，你的表單提交。每個字段，請予審議，並移除任何不需要儲存每個提交。如果您刪除一個有效的實地事故，或希望更改信息存儲的形式，返回到前一頁派遣一個新的測試提交。";
-$LANG["text_add_form_step_3_para_2"] = "注意：如果你要發送多個值通過複選框或一個多選擇框，請確保您的域的名稱結尾的[]字符（見<a href=\"http://docs.cloudservetechcentral.com/\" target=\"_blank\">用戶文檔</a>獲取更多信息）。";
+$LANG["text_add_form_step_3_para_2"] = "注意：如果你要發送多個值通過複選框或一個多選擇框，請確保您的域的名稱結尾的[]字符（見<a href=\"http://docs.forms.cloudservetechcentral.com/\" target=\"_blank\">用戶文檔</a>獲取更多信息）。";
 $LANG["text_add_form_step_3_text_1"] = "下面是其中的樂趣的開始！在這一點上，表格工具正在等待測試提交的表單。它將使用這種形式提交知道什麼樣的信息應該存儲在數據庫中。";
 $LANG["text_add_form_step_3_text_2"] = "通過指向您的表格，表格工具";
 $LANG["text_add_form_step_3_text_3"] = "使用表格工具的API";
@@ -732,7 +732,7 @@ $LANG["text_also_default_login_page_theme"] = "（也是默認登錄頁的主題
 $LANG["text_cache_folder_cleared"] = "Cache folder cleared.";
 $LANG["text_cache_folder_invalid_permissions"] = "The cache folder needs to have full read-write permissions.";
 $LANG["text_cache_folder_not_writable"] = "Cache folder is not valid or writable.";
-$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
+$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.forms.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
 $LANG["text_cannot_clear_cache_folder"] = "We were unable to delete all files in your cache folder.";
 $LANG["text_choose_form_type"] = "首先，請選擇你的表單類型。";
 $LANG["text_client_form_page"] = "本頁面列出了所有意見的形式和分配給此客戶端。提示：為了讓他們看到窗體的意見，他們需要被分配到至少一個視圖。";
@@ -787,8 +787,8 @@ $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">“未知�
 $LANG["text_install_db_tables_error_tip_2"] = "<span class=\"green\">“無法連接到本地MySQL服務器通過插座”</span>是指數據庫主機領域再次不正確。";
 $LANG["text_install_db_tables_error_tip_3"] = "<span class=\"green\">“拒絕訪問用戶：”</span>是指有一個問題，您的用戶名/密碼組合。";
 $LANG["text_install_db_tables_error_tip_4"] = "<span class=\"green\">“拒絕訪問用戶：數據庫... ...”</span>的意思是，雖然您的用戶名和密碼，您提供的是正確的，它無法連接到特定的數據庫，該帳戶。這意味著，要么你的數據庫的名稱不正確，或該用戶帳戶不關聯的數據庫。";
-$LANG["text_install_email_content_text"] = "我們的網站上有大量資源可以幫助您入門，包括我們的在線文檔（https://docs.cloudservetechcentral.com）和教程（https://docs.cloudservetechcentral.com/tutorials）。 如果您發現卡住或有疑問，請在github上提問（https://github.com/formtools/core/issues/）。";
-$LANG["text_install_form_tools_server_not_supported"] = "對不起，表格工具將無法在服務器上運行。 <a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">請點擊這裡</a>的最低要求。";
+$LANG["text_install_email_content_text"] = "我們的網站上有大量資源可以幫助您入門，包括我們的在線文檔（https://docs.forms.cloudservetechcentral.com）和教程（https://docs.forms.cloudservetechcentral.com/tutorials）。 如果您發現卡住或有疑問，請在github上提問（https://github.com/formtools/core/issues/）。";
+$LANG["text_install_form_tools_server_not_supported"] = "對不起，表格工具將無法在服務器上運行。 <a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">請點擊這裡</a>的最低要求。";
 $LANG["text_install_system_check"] = "本頁面運行幾個測試你的系統，以確保它能夠運行表格工具。";
 $LANG["text_installation_intro"] = "Select your language and let's get started.";
 $LANG["text_installation_session_expired"] = "Sorry, your session has expired. You will need to begin the installation process again. Click the button below.";
@@ -814,7 +814,7 @@ $LANG["text_no_modules_found"] = "沒有模塊被發現。擴大您的搜索條�
 $LANG["text_no_recipients_added"] = "任何人已被添加。";
 $LANG["text_no_search_results"] = "沒有結果與此搜索條件 /查看。";
 $LANG["text_no_submissions_found"] = "對不起，沒有發現意見書。";
-$LANG["text_no_themes"] = "您沒有任何主題的定義。點擊下面的按鈕來刷新你的主題列表，或檢查<a href=\"https://docs.cloudservetechcentral.com/userdoc/themes/\">表格工具用戶文檔</a>信息有關添加主題。";
+$LANG["text_no_themes"] = "您沒有任何主題的定義。點擊下面的按鈕來刷新你的主題列表，或檢查<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/themes/\">表格工具用戶文檔</a>信息有關添加主題。";
 $LANG["text_non_deletable_fields"] = "此字段所使用的核心腳本，不能編輯或刪除，而不會造成不兼容。如果您想更改字段類型，使複製並編輯該副本。";
 $LANG["text_option_list_group_explanation"] = "如果被選中，它可以讓你的選擇進行分組。如何組顯示取決於字段類型使用此選項列表。";
 $LANG["text_option_list_page"] = "單選按鈕，複選框，下拉列表和多選下拉領域的所有用戶提供多種選擇，他們可以從中選擇一個或多個項目。在表格工具，這些被稱為選項列表。一般來說，這些自動創建的<a href=\"{\$link}\">添加外在形式</a>的過程，但你可以手動添加或編輯您的選擇，如果你的形式列出了以下內容更改或者構造域僅在內部使用。";
@@ -822,7 +822,7 @@ $LANG["text_option_list_used_by_fields"] = "此選項列表用於多個表單域
 $LANG["text_public_form_omit_list_page"] = "<b>公用</b>表格給你的好處，讓所有的客戶帳戶訪問它們，而不必手動分配每個客戶端給他們。這個頁面可以讓您針對這些客戶誰可能無法訪問此表格，即使表格標記為 public。";
 $LANG["text_public_view_omit_list_page"] = "公眾意見給你的好處，讓所有的客戶帳戶訪問它們，而不必手動分配每個客戶端給他們。這個頁面可以讓您針對這些客戶誰不能訪問這個特定視圖。";
 $LANG["text_reference_tab_info"] = "此頁面列出了所有可用的佔位符為表單。佔位符的字符串，可用於在電子郵件模板和字段標有一個特殊的佔位符圖標<img src=\"{\$g_root_url}/global/images/lang_placeholder_field_icon.png\" /> 。當進入一個領域，他們是動態轉換為適當的值時，該字段查看或發送電子郵件。";
-$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
+$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.forms.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
 $LANG["text_review_user_doc"] = "審查用戶文檔";
 $LANG["text_send_email_from_edit_submission_page"] = "包括選擇是否發送這封電子郵件提交頁面的編輯";
 $LANG["text_smart_fill_option_list_problem"] = "我們無法智能填充你的領域選擇。然而，作為替代，你可以嘗試上傳一個副本的形式在外地頁以下。注意： <b>不要</b>上傳原始PHP頁面（或其他服務器端代碼） -剛剛上傳的HTML版本。要獲得此，查看和保存網頁從您的Web瀏覽器。";
@@ -831,7 +831,7 @@ $LANG["text_system_check_passed"] = "Your system is able to run CloudserveForms.
 $LANG["text_tables_exist_desc"] = "Sorry, it appears that some tables already exist with the table prefix that you entered. You can either choose to overwrite these tables or pick a new table prefix.";
 $LANG["text_test_email"] = "使用以下表格，以查看或自己發送一封電子郵件，這封電子郵件產生的模板。 <b>唯一</b>的電子郵件發送到以下指定的電子郵件，主要的，CC和密件副本收件人的電子郵件地址被忽略，而測試。";
 $LANG["text_test_email_templates_no_submissions"] = "為了測試您的電子郵件模板，您必須首先將通過至少一種形式提交。";
-$LANG["text_theme_page_intro"] = "本頁面列出了所有你的主題。點擊縮略圖看到一個更大的例子主題的風格。 “啟用”複選框，確定是否該主題可以由客戶選擇。若要瀏覽所有可用的主題，請訪問<a href=\"http://themes.cloudservetechcentral.com\" target=\"_blank\">網站表格工具</a> 。";
+$LANG["text_theme_page_intro"] = "本頁面列出了所有你的主題。點擊縮略圖看到一個更大的例子主題的風格。 “啟用”複選框，確定是否該主題可以由客戶選擇。若要瀏覽所有可用的主題，請訪問<a href=\"http://themes.forms.cloudservetechcentral.com\" target=\"_blank\">網站表格工具</a> 。";
 $LANG["text_tutorial_adding_first_form"] = "教程：添加您的第一個表格！";
 $LANG["text_unique_submission_id"] = "獨特的提交身份證。";
 $LANG["text_unused_option_list"] = "此選項列表不被用於任何形式的領域。";

@@ -358,7 +358,7 @@ class Core
 		"view_tabs"
 	);
 
-	private static $upgradeUrl = "https://cloudservetechcentral.com/formtools/upgrade.php";
+	private static $upgradeUrl = "https://forms.cloudservetechcentral.com/formtools/upgrade.php";
 
 	/**
 	 * Simple mechanism to provide a global storage hash for pages, added for performance reasons.

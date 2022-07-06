@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Súbor <b>{\$filename}</b> vo zložke <b>{\
 $L["notify_files_unknown_reasons"] = "Tieto súbory nebolo možné odstrániť z neznámych dôvodov: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Obnoviť typ poľa";
 $L["phrase_no_files_to_delete"] = "Žiadne súbory na odstránenie.";
-$L["text_help"] = "Viac informácií o tomto module nájdete na <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentácii pomocníka</a> na stránke nástroja Forms.";
+$L["text_help"] = "Viac informácií o tomto module nájdete na <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentácii pomocníka</a> na stránke nástroja Forms.";
 $L["text_reset_field_type_desc"] = "Toto tlačidlo nižšie vám umožňuje obnoviť tento typ poľa na najnovšie predvolené nastavenia. Vo všeobecnosti to nemusíte robiť, ale v prípade neúspešného upgradu je to bezchybný spôsob, ako zabezpečiť jeho aktuálnosť.";
 $L["text_intro_desc"] = "Použite <a href=\"{\$link}\">Nastavenia &raquo; Súbory</a> a definujte predvolené nastavenia odovzdávania súborov. Tieto nastavenia môžete prepísať úpravou ľubovoľného poľa formulára prostredníctvom formulára Upraviť &raquo; Karta Pole.";
 $L["word_help"] = "Pomoc";

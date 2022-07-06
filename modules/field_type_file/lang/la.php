@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$filename}</b> fails <b>{\$folder}</b>
 $L["notify_files_unknown_reasons"] = "Šos failus nevarēja izdzēst nezināmu iemeslu dēļ: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Atiestatīt lauku";
 $L["phrase_no_files_to_delete"] = "Nevar izdzēst failus.";
-$L["text_help"] = "Lai iegūtu vairāk informācijas par šo moduli, lūdzu, skatiet <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">palīdzības dokumentāciju</a> veidlapu rīku vietnē.";
+$L["text_help"] = "Lai iegūtu vairāk informācijas par šo moduli, lūdzu, skatiet <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">palīdzības dokumentāciju</a> veidlapu rīku vietnē.";
 $L["text_reset_field_type_desc"] = "Šī tālāk redzamā poga ļauj atjaunot šī lauka tipu jaunākajām rūpnīcas noklusējuma vērtībām. Parasti jums tas nav jādara, bet neveiksmīgas jaunināšanas gadījumā tas ir drošs veids, kā nodrošināt tā atjaunināšanu.";
 $L["text_intro_desc"] = "Izmantojiet <a href=\"{\$link}\">iestatījumus &raquo; Lapas Faili</a>, lai definētu noklusējuma faila augšupielādes iestatījumus. Varat ignorēt šos iestatījumus, rediģējot jebkuru veidlapas lauku, izmantojot Rediģēt veidlapu & raquo; Lauka cilne.";
 $L["word_help"] = "Palīdzība";

@@ -43398,7 +43398,7 @@ object-assign
             { className: Pr.a.logo },
             h.a.createElement(
               "a",
-              { href: "https://cloudservetechcentral.com" },
+              { href: "https://forms.cloudservetechcentral.com" },
               h.a.createElement("img", {
                 src: "".concat(
                   t.rootUrl,
@@ -43478,7 +43478,7 @@ object-assign
               h.a.createElement(
                 "a",
                 {
-                  href: "https://cloudservetechcentral.com",
+                  href: "https://forms.cloudservetechcentral.com",
                   target: "_blank",
                   rel: "noopener noreferrer",
                 },
@@ -57569,7 +57569,7 @@ object-assign
                         h.a.createElement(
                           "a",
                           {
-                            href: "https://docs.cloudservetechcentral.com/tutorials/adding_first_form/",
+                            href: "https://docs.forms.cloudservetechcentral.com/tutorials/adding_first_form/",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
@@ -57582,7 +57582,7 @@ object-assign
                         h.a.createElement(
                           "a",
                           {
-                            href: "https://docs.cloudservetechcentral.com/",
+                            href: "https://docs.forms.cloudservetechcentral.com/",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },

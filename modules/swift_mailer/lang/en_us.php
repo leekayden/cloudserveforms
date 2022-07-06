@@ -7,7 +7,7 @@ CloudserveForms - Module Language File
 File created: Oct 24th, 2:46 AM
 
 If you would like to help translate this module, please visit:
-http://www.cloudservetechcentral.com/translations/
+http://www.forms.cloudservetechcentral.com/translations/
 */
 
 
@@ -57,7 +57,7 @@ $L["notify_html_email_sent"] = "<b>HTML</b> email successfully sent.";
 $L["notify_smtp_problem"] = "There was a problem communicating with SMTP:";
 $L["notify_problem_building_email"] = "There was an unexpected problem building the email:";
 
-$L["text_help"] = "Please see our <a href=\"https://docs.cloudservetechcentral.com/modules/swift_mailer/\" target=\"_blank\">online help documentation</a> for information on how to use this module.";
+$L["text_help"] = "Please see our <a href=\"https://docs.forms.cloudservetechcentral.com/modules/swift_mailer/\" target=\"_blank\">online help documentation</a> for information on how to use this module.";
 $L["text_settings_desc"] = "This module enables the <a href=\"http://swiftmailer.org/\" target=\"_blank\">Swift Mailer</a> script to send all CloudserveForms emails, instead of relying on the default PHP <b>mail()</b> function. Your PHP version is <b>{\$php_version}</b>.";
 $L["text_test_desc"] = "Use the form below to confirm the emails are sent with the SMTP settings you have entered.";
 $L["text_password_hidden"] = "Password hidden for security reasons. You only need to re-enter the password here if you wish to change it.";

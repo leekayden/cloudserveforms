@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Không thể xóa tệp <b>{\$filename}</b>
 $L["notify_files_unknown_reasons"] = "Không thể xóa các tệp này vì lý do không xác định: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Đặt lại loại trường";
 $L["phrase_no_files_to_delete"] = "Không có tập tin để xóa.";
-$L["text_help"] = "Để biết thêm thông tin về mô-đun này, vui lòng xem <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Tài liệu trợ giúp</a> trên trang web Công cụ biểu mẫu.";
+$L["text_help"] = "Để biết thêm thông tin về mô-đun này, vui lòng xem <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Tài liệu trợ giúp</a> trên trang web Công cụ biểu mẫu.";
 $L["text_reset_field_type_desc"] = "Nút này bên dưới cho phép bạn đặt lại loại trường này về mặc định của nhà máy mới nhất. Nói chung, bạn không phải làm điều này, nhưng trong trường hợp nâng cấp không thành công thì đây là một cách không an toàn để đảm bảo cập nhật.";
 $L["text_intro_desc"] = "Sử dụng <a href=\"{\$link}\">Cài đặt &raquo; Trang</a> để xác định cài đặt tải lên tệp mặc định. Bạn có thể ghi đè các cài đặt đó bằng cách chỉnh sửa bất kỳ trường biểu mẫu nào thông qua Biểu mẫu chỉnh sửa &raquo; Tab trường.";
 $L["word_help"] = "Cứu giúp";

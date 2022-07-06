@@ -21,7 +21,7 @@ class Module extends FormToolsModule
     protected $moduleDesc = "Logs all changes to form submissions, provides a panel on the administrator's Edit Submission page to browse the changes, and provides options to restore older versions and undelete submissions.";
     protected $author = "Kayden Lee";
     protected $authorEmail = "kayden@programmer.net";
-    protected $authorLink = "https://cloudservetechcentral.com";
+    protected $authorLink = "https://forms.cloudservetechcentral.com";
     protected $version = "2.0.5";
     protected $date = "2019-05-29";
     protected $originLanguage = "en_us";

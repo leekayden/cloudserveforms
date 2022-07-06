@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Ang file na <b>{\$filename}</b> sa folder n
 $L["notify_files_unknown_reasons"] = "Ang mga file na ito ay hindi maaaring alisin dahil sa hindi alam na mga dahilan: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "I-reset ang Uri ng Field";
 $L["phrase_no_files_to_delete"] = "Walang mga file na tatanggalin.";
-$L["text_help"] = "Para sa higit pang impormasyon sa modyul na ito, pakitingnan ang <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasyon ng tulong</a> sa site ng Mga Tool ng Form.";
+$L["text_help"] = "Para sa higit pang impormasyon sa modyul na ito, pakitingnan ang <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasyon ng tulong</a> sa site ng Mga Tool ng Form.";
 $L["text_reset_field_type_desc"] = "Ang button na ito sa ibaba ay nagbibigay-daan sa iyo i-reset ang uri ng field na ito sa pinakabagong mga default ng factory. Sa pangkalahatan hindi mo na kailangang gawin ito, ngunit sa kaso ng isang nabigong pag-upgrade ito ay isang walang silbi na paraan upang matiyak na napapanahon.";
 $L["text_intro_desc"] = "Gamitin ang <a href=\"{\$link}\">Mga Setting &raquo; Mga file</a> upang tukuyin ang default na mga setting ng pag-upload ng file. Maaari mong i-override ang mga setting sa pamamagitan ng pag-edit ng anumang field ng form sa pamamagitan ng I-edit ang Form &raquo; Tab na Mga Field.";
 $L["word_help"] = "Tulong";

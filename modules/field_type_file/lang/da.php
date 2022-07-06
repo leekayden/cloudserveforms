@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Filen <b>{\$filename}</b> i mappen <b>{\$fo
 $L["notify_files_unknown_reasons"] = "Disse filer kunne ikke fjernes på grund af ukendte årsager: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Nulstil feltype";
 $L["phrase_no_files_to_delete"] = "Ingen filer, der skal slettes.";
-$L["text_help"] = "For mere information om dette modul, se venligst <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjælpedokumentation</a> på webstedet Formularværktøjer.";
+$L["text_help"] = "For mere information om dette modul, se venligst <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjælpedokumentation</a> på webstedet Formularværktøjer.";
 $L["text_reset_field_type_desc"] = "Denne knap nedenfor lader dig nulstille denne feltype til de nyeste fabriksindstillinger. Generelt behøver du ikke at gøre dette, men i tilfælde af en mislykket opgradering er det en fejlfinding måde at sikre, at den er opdateret.";
 $L["text_intro_desc"] = "Brug <a href=\"{\$link}\">Indstillinger &raquo; Filer</a> for at definere standardindstillingerne for filoploading. Du kan tilsidesætte disse indstillinger ved at redigere et formularfelt via Rediger formularen &raquo; Fanen Felt.";
 $L["word_help"] = "Hjælp";

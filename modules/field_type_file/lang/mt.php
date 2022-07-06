@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Il-fajl <b>{\$filename}</b> fil-folder <b>{
 $L["notify_files_unknown_reasons"] = "Dawn il-fajls ma setgħux jitneħħew minħabba raġunijiet mhux magħrufa: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Irrisettja Tip ta 'Qasam";
 $L["phrase_no_files_to_delete"] = "Ma hemm l-ebda fajl li tħassar.";
-$L["text_help"] = "Għal aktar informazzjoni dwar dan il-modulu, jekk jogħġbok ara l-<a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentazzjoni ta 'għajnuna</a> fuq is-sit tal-Għodda tal-Formola.";
+$L["text_help"] = "Għal aktar informazzjoni dwar dan il-modulu, jekk jogħġbok ara l-<a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentazzjoni ta 'għajnuna</a> fuq is-sit tal-Għodda tal-Formola.";
 $L["text_reset_field_type_desc"] = "Din il-buttuna hawn taħt ihallik issettja mill-ġdid dan it-tip ta 'qasam għall-aħħar nuqqasijiet fil-fabbrika. Ġeneralment ma jkollokx għalfejn tagħmel dan, imma fil-każ ta 'aġġornament fallut dan huwa mod sikur biex jiżgura li hu aġġornat.";
 $L["text_intro_desc"] = "Uża l-<a href=\"{\$link}\">Settings &raquo; Fajls</a> paġna biex tiddefinixxi l-issettjar ta 'upload default tal-fajl. Tista 'tegħleb dawk is-settings billi teditja kwalunkwe qasam tal-forma permezz tal-Edit Form &raquo; Fields tab.";
 $L["word_help"] = "Għajnuna";

@@ -26,7 +26,7 @@ namespace FormTools;
 class Errors
 {
 
-    // see: https://docs.cloudservetechcentral.com/api/error_codes/
+    // see: https://docs.forms.cloudservetechcentral.com/api/error_codes/
     public static $CODES = array(
         "100" => 100,
         "101" => 101,

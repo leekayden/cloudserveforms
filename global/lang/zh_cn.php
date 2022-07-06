@@ -176,7 +176,7 @@ $LANG["notify_submissions_and_files_deleted"] = "提交和相关的文件已经�
 $LANG["notify_submissions_copied"] = "<b>{\$num_submissions}</b>份意见书已被复制。";
 $LANG["notify_submissions_deleted"] = "提交已经成功移除。";
 $LANG["notify_submissions_deleted_with_problems"] = "提交已被删除，但在删除相关的文件时遇到以下的问题：";
-$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
+$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.forms.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
 $LANG["notify_test_email_not_sent"] = "您的测试电邮不能发送。";
 $LANG["notify_theme_cache_folder_not_writable"] = "这一主题的缓存文件夹不可写。为了使这一主题<b>{\$folder}</b>文件夹必须具有完全的读写权限。";
 $LANG["notify_theme_list_updated"] = "的主题名单已更新。";
@@ -683,7 +683,7 @@ $LANG["special_language_locale"] = "Simplified Chinese";
 $LANG["special_text_direction"] = "ltr";
 $LANG["text_account_settings_page"] = "所有新客户帐户将被创建的设置和定义如下权限。要覆盖特定客户端的设置，修改客户帐户和访问的设置选项卡。";
 $LANG["text_add_form_choose_integration_method"] = "选择要使用哪种方法，整合与表格工具形式。";
-$LANG["text_add_form_code_submission_benefits"] = "这种方法使用的<a href=\"http://docs.cloudservetechcentral.com/api/\" target=\"_blank\">表格</a> ，包括在主窗体的工具脚本<a href=\"http://docs.cloudservetechcentral.com/api/\" target=\"_blank\">的工具</a> API 。该API提供了一些有用的功能，使您尽可能简单的形式整合与表格工具的工作。当您使用API​​时，可以提交表单如何有没有限制。您可以提交一气呵成，或逐页的内容;您可以添加您自己的自定义的服务器端验证，CAPTCHA图像，您可以选择现在提交的信息，但只告诉它要显示在表格工具的用户界面提交在稍后的日期（见API帮助文档<a href=\"http://docs.cloudservetechcentral.com/api/?page=finalized_submissions\">提交的文件定稿</a>节）。";
+$LANG["text_add_form_code_submission_benefits"] = "这种方法使用的<a href=\"http://docs.forms.cloudservetechcentral.com/api/\" target=\"_blank\">表格</a> ，包括在主窗体的工具脚本<a href=\"http://docs.forms.cloudservetechcentral.com/api/\" target=\"_blank\">的工具</a> API 。该API提供了一些有用的功能，使您尽可能简单的形式整合与表格工具的工作。当您使用API​​时，可以提交表单如何有没有限制。您可以提交一气呵成，或逐页的内容;您可以添加您自己的自定义的服务器端验证，CAPTCHA图像，您可以选择现在提交的信息，但只告诉它要显示在表格工具的用户界面提交在稍后的日期（见API帮助文档<a href=\"http://docs.forms.cloudservetechcentral.com/api/?page=finalized_submissions\">提交的文件定稿</a>节）。";
 $LANG["text_add_form_code_submission_drawbacks"] = "为了通过PHP提交表单数据，表单必须位于同一个网站作为本表格工具安装。其次，对于非技术和新手的表格工具的用户，这种方法可首先一点恐吓。但也有大量的文件来帮助你，包括两个简单的教程，结合您的单页和多页的形式（这些都是与后面的步骤）。";
 $LANG["text_add_form_direct_submission_benefits"] = "这是最简单的方式提交您的表格，表格工具。它不需要任何PHP知识，只需要一个非常小的改动，您的窗体。它非常适合于小型的形式在您要提交的信息只到数据库，然后将用户重定向到“三江源”页面。";
 $LANG["text_add_form_direct_submission_drawbacks"] = "这次提交方法非常简单易用，但不提供更复杂的形式的控制权。多页表格或形式，需要服务器端验证更适合第二种方法：通过表单提交的API工具。";
@@ -704,7 +704,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "你的形式是密�
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "在另一个选项卡/此浏览器窗口，登录到您的表单，然后单击刷新页面下面的按钮，尝试重新找到字段。";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "如果没有上述解决方案的工作，你可能也想尝试<a href=\"#\" onclick=\"{\$ONCLICK}\">手动上传你的形式进行</a>处理。";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "有等多个领域，无法在您指定的网页形式。这是最有可能造成这些：";
-$LANG["text_add_form_help_link"] = "如果遇到任何麻烦，在这些步骤中运行，尝试读<a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">出用户</a>文档。";
+$LANG["text_add_form_help_link"] = "如果遇到任何麻烦，在这些步骤中运行，尝试读<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">出用户</a>文档。";
 $LANG["text_add_form_step_1_text_1"] = "以下页面带领的配置表格工具的步骤来存储您的表单提交。在继续之前，请检查：";
 $LANG["text_add_form_step_1_text_2"] = "您的窗体已创建和它的通过网址（本地主机访问的罚款）";
 $LANG["text_add_form_step_1_text_3"] = "可以编辑表单";
@@ -713,7 +713,7 @@ $LANG["text_add_form_step_2_para_3"] = "接下来， <a href=\"{\$linktoform}\" 
 $LANG["text_add_form_step_2_para_6"] = "在您的表单提交，包括下面的值。他们可能是通过直接设置PHP或通过窗体本身一起。以下是一些例子。在（\$ varname的）是一个哈希（或关联数组）提交的所有形式的信息 - 这通常是（\$ postvar）或（\$ sessionvar）变量，但它可能是客户化定制的。";
 $LANG["text_add_form_step_2_text_2"] = "输入“三江源”页的URL。这是你想要人定向到后已提交的形式。";
 $LANG["text_add_form_step_3_para_1"] = "此页面列出了在您的表单提交的所有领域。每个字段，请予审议，并移除任何你不需要为每一个提交保存。如果您删除了一个有效的事故现场，或希望更改您的资料表格，返回到前一页存储派遣一个新的测试提交。";
-$LANG["text_add_form_step_3_para_2"] = "注意：如果你要发送通过复选框或多个值多，选择框，请确保您的域的名称与[]字符（见更多信息的<a href=\"http://docs.cloudservetechcentral.com/\" target=\"_blank\">用户文档</a>结束）。";
+$LANG["text_add_form_step_3_para_2"] = "注意：如果你要发送通过复选框或多个值多，选择框，请确保您的域的名称与[]字符（见更多信息的<a href=\"http://docs.forms.cloudservetechcentral.com/\" target=\"_blank\">用户文档</a>结束）。";
 $LANG["text_add_form_step_3_text_1"] = "这里的乐趣开始的地方！在这一点上，表格工具正在等待从形式的测试提交。它会使用这个表单提交知道什么样的信息应该存储在数据库中。";
 $LANG["text_add_form_step_3_text_2"] = "通过指向您的表格，表格工具";
 $LANG["text_add_form_step_3_text_3"] = "使用表格工具的API";
@@ -732,7 +732,7 @@ $LANG["text_also_default_login_page_theme"] = "（也是默认登录页的主题
 $LANG["text_cache_folder_cleared"] = "Cache folder cleared.";
 $LANG["text_cache_folder_invalid_permissions"] = "The cache folder needs to have full read-write permissions.";
 $LANG["text_cache_folder_not_writable"] = "Cache folder is not valid or writable.";
-$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
+$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.forms.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
 $LANG["text_cannot_clear_cache_folder"] = "We were unable to delete all files in your cache folder.";
 $LANG["text_choose_form_type"] = "首先，请选择你的表单类型。";
 $LANG["text_client_form_page"] = "本页面列出了所有形式和分配给此客户的意见。提示：为了让他们看到窗体的意见，他们需要被分配到至少一个视图。";
@@ -787,8 +787,8 @@ $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">“未知�
 $LANG["text_install_db_tables_error_tip_2"] = "<span class=\"green\">“无法连接插座通过”本地MySQL服务器</span>意味着数据库主机领域再次不正确。";
 $LANG["text_install_db_tables_error_tip_3"] = "<span class=\"green\">“访问用户被拒绝：”</span>意思是指您的用户名/密码组合的问题。";
 $LANG["text_install_db_tables_error_tip_4"] = "<span class=\"green\">“访问用户被拒绝：数据库... ...”</span>的意思是，虽然您的用户名和密码，您提供的是正确的，它无法连接到该帐户与特定的数据库。这意味着，要么你的数据库的名称不正确，或该用户帐户不与该数据库关联的。";
-$LANG["text_install_email_content_text"] = "我们的网站上有大量资源可以帮助您入门，包括我们的在线文档（https://docs.cloudservetechcentral.com）和教程（https://docs.cloudservetechcentral.com/tutorials）。 如果您发现卡住或有疑问，请在github上提问（https://github.com/formtools/core/issues/）。";
-$LANG["text_install_form_tools_server_not_supported"] = "对不起，表格工具将不能够运行您的服务器上<a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">，请点击</a>这里的最低要求。";
+$LANG["text_install_email_content_text"] = "我们的网站上有大量资源可以帮助您入门，包括我们的在线文档（https://docs.forms.cloudservetechcentral.com）和教程（https://docs.forms.cloudservetechcentral.com/tutorials）。 如果您发现卡住或有疑问，请在github上提问（https://github.com/formtools/core/issues/）。";
+$LANG["text_install_form_tools_server_not_supported"] = "对不起，表格工具将不能够运行您的服务器上<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">，请点击</a>这里的最低要求。";
 $LANG["text_install_system_check"] = "这页你的系统上运行，以确保它能够运行中一些测试工具。";
 $LANG["text_installation_intro"] = "Select your language and let's get started.";
 $LANG["text_installation_session_expired"] = "Sorry, your session has expired. You will need to begin the installation process again. Click the button below.";
@@ -814,7 +814,7 @@ $LANG["text_no_modules_found"] = "没有模块被发现。扩大您的搜索条�
 $LANG["text_no_recipients_added"] = "任何人已被添加。";
 $LANG["text_no_search_results"] = "没有与该搜索条件的结果/查看。";
 $LANG["text_no_submissions_found"] = "对不起，没有找到任何提交。";
-$LANG["text_no_themes"] = "您没有任何主题定义。点击下面的按钮来刷新你的主题列表，或检查的<a href=\"https://docs.cloudservetechcentral.com/userdoc/themes/\">表格工具，用户</a>文档，有关加入主题的信息。";
+$LANG["text_no_themes"] = "您没有任何主题定义。点击下面的按钮来刷新你的主题列表，或检查的<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/themes/\">表格工具，用户</a>文档，有关加入主题的信息。";
 $LANG["text_non_deletable_fields"] = "此字段是核心脚本和使用而造成的不兼容，不能编辑或删除。如果你想使字段类型的变化，它的一个副本，并编辑副本。";
 $LANG["text_option_list_group_explanation"] = "如果选择此选项，它可以让组您的选择。如何显示组取决于字段类型使用此选项列表。";
 $LANG["text_option_list_page"] = "单选按钮，复选框，下拉列表和多选下拉领域的所有用户提供多个选项，从中他们可以选择一个或多个项目。在表格工具，这些被称为选项列表。一般来说，这些都是自动创建<a href=\"{\$link}\">添加的外在</a>形式的过程，但您可以手动添加或编辑以下选项列出，如果您的表单内容的变化，或者您构造，仅供内部使用的领域。";
@@ -822,7 +822,7 @@ $LANG["text_option_list_used_by_fields"] = "使用此选项列表是由多个表
 $LANG["text_public_form_omit_list_page"] = "<b>公用</b>表格给你的好处，让所有的客户帐户访问，而不必手动分配每个客户端他们。这个页面可以让您针对这些客户谁可能无法访问此表格，即使形式是公共标记。";
 $LANG["text_public_view_omit_list_page"] = "公众意见给你的好处，让所有的客户帐户访问，而不必手动分配每个客户端他们。这个页面可以让您针对这些客户谁不能访问这个特定视图。";
 $LANG["text_reference_tab_info"] = "此页面列出了所有表单的占位符。占位符是可以在电子邮件模板中使用的字符串，与一个特殊的占位符图标标记和领域<img src=\"{\$g_root_url}/global/images/lang_placeholder_field_icon.png\" /> 。当进入到一个字段，它们是动态转换为适当的值时，该字段是浏览或发送电子邮件。";
-$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
+$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.forms.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
 $LANG["text_review_user_doc"] = "审查用户文档";
 $LANG["text_send_email_from_edit_submission_page"] = "包括选择从编辑发送此页的电子邮件提交";
 $LANG["text_smart_fill_option_list_problem"] = "我们无法智能填充字段选项。然而，作为替代，你可以尝试在下面的字段上传您的表单页面的副本。注： <b>不</b>上传原始的PHP页面（或其它的服务器端代码） -刚刚上传的HTML版本。要获得此，查看和保存从Web浏览器的页面。";
@@ -831,7 +831,7 @@ $LANG["text_system_check_passed"] = "Your system is able to run CloudserveForms.
 $LANG["text_tables_exist_desc"] = "Sorry, it appears that some tables already exist with the table prefix that you entered. You can either choose to overwrite these tables or pick a new table prefix.";
 $LANG["text_test_email"] = "使用下面的表单来查看或自己发送一封电子邮件，这封电子邮件的生成模板。 <b>唯一</b>的电子邮件发送到以下指定的电子邮件，主要的，CC和密件副本收件人的电子邮件地址被忽略，而测试。";
 $LANG["text_test_email_templates_no_submissions"] = "为了测试您的电子邮件模板，您必须首先将通过至少一种形式提交。";
-$LANG["text_theme_page_intro"] = "此页面列出了所有的你的主题。点击缩略图看到这个主题的风格更大的示例。 “启用”复选框，确定是否这个主题可能会被客户选中。若要浏览所有可用的主题，请访问<a href=\"http://themes.cloudservetechcentral.com\" target=\"_blank\">网站表格工具</a> 。";
+$LANG["text_theme_page_intro"] = "此页面列出了所有的你的主题。点击缩略图看到这个主题的风格更大的示例。 “启用”复选框，确定是否这个主题可能会被客户选中。若要浏览所有可用的主题，请访问<a href=\"http://themes.forms.cloudservetechcentral.com\" target=\"_blank\">网站表格工具</a> 。";
 $LANG["text_tutorial_adding_first_form"] = "教程：添加您的第一个表格！";
 $LANG["text_unique_submission_id"] = "独特的提交身份证。";
 $LANG["text_unused_option_list"] = "此选项列表不被用于任何形式的领域。";

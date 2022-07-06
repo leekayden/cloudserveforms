@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Fail <b>{\$filename}</b> dalam folder <b>{\
 $L["notify_files_unknown_reasons"] = "Fail ini tidak dapat dialih keluar kerana alasan yang tidak diketahui: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Tetapkan semula Jenis Field";
 $L["phrase_no_files_to_delete"] = "Tiada fail yang hendak dipadam.";
-$L["text_help"] = "Untuk mendapatkan maklumat lanjut mengenai modul ini, sila lihat <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasi bantuan</a> di laman Alat Borang.";
+$L["text_help"] = "Untuk mendapatkan maklumat lanjut mengenai modul ini, sila lihat <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentasi bantuan</a> di laman Alat Borang.";
 $L["text_reset_field_type_desc"] = "Butang di bawah ini membolehkan anda menetapkan semula medan jenis ini kepada lalai kilang terkini. Umumnya anda tidak perlu melakukan ini, tetapi sekiranya gagal menaik taraf ini adalah cara yang tidak selamat untuk memastikan ia terkini.";
 $L["text_intro_desc"] = "Gunakan <a href=\"{\$link}\">Tetapan &raquo; Fail</a> untuk menentukan tetapan muat naik fail lalai. Anda boleh mengatasi tetapan tersebut dengan menyunting mana-mana medan borang melalui Edit Borang & raquo; Tab Fields.";
 $L["word_help"] = "Bantuan";

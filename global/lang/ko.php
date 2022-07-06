@@ -176,7 +176,7 @@ $LANG["notify_submissions_and_files_deleted"] = "제출 및 기타 (들)와 관�
 $LANG["notify_submissions_copied"] = "<b>{\$num_submissions}</b> 개의 제출물이 복사되었습니다.";
 $LANG["notify_submissions_deleted"] = "제출이 성공적으로 삭제되었습니다.";
 $LANG["notify_submissions_deleted_with_problems"] = "제출하지만, 삭제된 다음과 같은 문제는 다음과 같은 파일 (들)을 삭제하려고 시도하는가 발생했습니다 :";
-$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
+$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.forms.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
 $LANG["notify_test_email_not_sent"] = "테스트 이메일을 보낼 수없습니다.";
 $LANG["notify_theme_cache_folder_not_writable"] = "이 테마의 캐시 폴더에 쓰기 권한이없습니다. 주문 있음, <b>{\$folder}</b> 폴더 전체를 읽을 필요로 쓰기 권한이 테마를 사용합니다.";
 $LANG["notify_theme_list_updated"] = "테마 목록을 업데이 트되었습니다.";
@@ -683,7 +683,7 @@ $LANG["special_language_locale"] = "Korean";
 $LANG["special_text_direction"] = "ltr";
 $LANG["text_account_settings_page"] = "모든 새 클라이언트 계정을 설정 및 사용 권한을 아래에 정의된로 만든 것입니다. 특정 클라이언트에 대한 클라이언트의 계정을 수정하고 자신의 설정 탭에서 설정을 재정의를 참조하십시오.";
 $LANG["text_add_form_choose_integration_method"] = "당신은 양식 도구와 양식을 통합하는 데 사용하려는 방법을 선택합니다.";
-$LANG["text_add_form_code_submission_benefits"] = "이 방법은 사용하는 <a href=\"http://docs.cloudservetechcentral.com/api/\" target=\"_blank\">양식 도구 API</a> 의 주요 양식 도구 스크립트에 포함을. API는 가능한 한 간단하게 양식 도구와 양식을 통합하는 작업을하기 위해 도움이 기능을 제공합니다. 당신이 API를 사용하면 양식 제출 수 방법에 제한이 없습니다. 이 페이지에서 한 가지, 또는 페이지의 콘텐츠를 제출할 수 있습니다 당신은 사용자 정의 서버 쪽 유효성 검사, CAPTCHA 이미지를 추가할 수 있습니다 당신은 지금 정보를 제출하도록 선택할 있으나, 양식 도구 UI에 제출을 표시하는 그것을 말할 수 나중에 (확인 <a href=\"http://docs.cloudservetechcentral.com/api/?page=finalized_submissions\">완료 제출물의</a> API 도움말 설명서의 섹션을).";
+$LANG["text_add_form_code_submission_benefits"] = "이 방법은 사용하는 <a href=\"http://docs.forms.cloudservetechcentral.com/api/\" target=\"_blank\">양식 도구 API</a> 의 주요 양식 도구 스크립트에 포함을. API는 가능한 한 간단하게 양식 도구와 양식을 통합하는 작업을하기 위해 도움이 기능을 제공합니다. 당신이 API를 사용하면 양식 제출 수 방법에 제한이 없습니다. 이 페이지에서 한 가지, 또는 페이지의 콘텐츠를 제출할 수 있습니다 당신은 사용자 정의 서버 쪽 유효성 검사, CAPTCHA 이미지를 추가할 수 있습니다 당신은 지금 정보를 제출하도록 선택할 있으나, 양식 도구 UI에 제출을 표시하는 그것을 말할 수 나중에 (확인 <a href=\"http://docs.forms.cloudservetechcentral.com/api/?page=finalized_submissions\">완료 제출물의</a> API 도움말 설명서의 섹션을).";
 $LANG["text_add_form_code_submission_drawbacks"] = "PHP를 통해 양식 데이터를 제출하기 위해서는 양식이 양식 도구 설치와 같은 웹 사이트에 위치해야합니다. 둘째, 비 기술 및 초보자 양식 도구 사용자를 위해,이 방법은 처음에는 위협 조금 수 있습니다. 하지만 당신을 도울 설명서 충분한은 단일 및 다중 페이지 양식을 (이것도 나중 단계에서 연결된) 통합을위한 두 가지 간단한 자습서를 포함하여,있다.";
 $LANG["text_add_form_direct_submission_benefits"] = "이것은 양식 도구를 귀하의 양식을 제출하려면 가장 간단한 방법입니다. 그것은 PHP의 모든 지식을 필요로하지 않는 양식에만 아주 작은 변화가 필요합니다. 그것은 작은 형태의 어디에 당신이 데이터베이스에 대한 다음 정보를 제출할 때 &quot;감사&quot;페이지를 원하는 사용자를 리디렉션합니다 멋지 네요.";
 $LANG["text_add_form_direct_submission_drawbacks"] = "이 제출 방법은 매우 사용은 간단합니다 그러나 더 복잡한 형태의 많은 컨트롤을 제공하지 않습니다. 다중 페이지 양식 또는 서버측 유효성 검사를 필요로 양식을보다 두 번째 방법에 적합한 위치 : 양식 도구 API를 통해 제출하십시오.";
@@ -704,7 +704,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "귀하의 양식을
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "이 브라우저의 다른 탭 / 창에서 필드를 다시 찾으려고 아래 새로 고침 페이지 버튼을 클릭 후 양식에 로그인합니다.";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "위의 솔루션 작업 없음 경우에는보십시오 <a href=\"#\" onclick=\"{\$ONCLICK}\">수동 처리에 대한 양식을 업로드</a> .";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "지정한 양식 페이지에서 찾을 수 없습니다 여러 필드가있었습니다. 이것은 대부분의 가능성이 중 하나에 의해 발생합니다 :";
-$LANG["text_add_form_help_link"] = "이 단계 중에 어떤 문제로 실행하는 경우, 밖으로 읽어보세요 <a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">사용자 설명서를</a> .";
+$LANG["text_add_form_help_link"] = "이 단계 중에 어떤 문제로 실행하는 경우, 밖으로 읽어보세요 <a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">사용자 설명서를</a> .";
 $LANG["text_add_form_step_1_text_1"] = "다음 페이지 양식 도구를 구성하는 단계를 통해 양식을 제출 저장소로 리드. 계속하기 전에 확인하시기 바랍니다 :";
 $LANG["text_add_form_step_1_text_2"] = "양식이 이미 만들어졌습니다 그리고 URL을 (localhost를 통해 접근할 수있어 괜찮 아요)입니다";
 $LANG["text_add_form_step_1_text_3"] = "양식을 수정하실 수있습니다";
@@ -713,7 +713,7 @@ $LANG["text_add_form_step_2_para_3"] = "다음으로, <a href=\"{\$linktoform}\"
 $LANG["text_add_form_step_2_para_6"] = "양식 제출에 다음과 같은 값을 포함합니다. 그들은 바로 PHP를 통해 설정할 수있습니다 또는 자체 양식을 통해 함께 통과시켰다. 다음은 각 구성의 예입니다. (\$ varname) 해시 모든 양식 제출 정보 (또는 연관 배열) -이 시간 이내 (\$ postvar) 또는 (\$ sessionvar) 변수이지만, 그것을 수도 사용자 지정 기본.";
 $LANG["text_add_form_step_2_text_2"] = "여기에  &quot;감사 &quot;페이지의 URL을 입력합니다. 당신이 양식을 제출 이후 사람들이로 이동하려는 곳이예요.";
 $LANG["text_add_form_step_3_para_1"] = "이 페이지 양식 제출의 모든 필드를 나열합니다. 각 필드를 검사 및 제거하면 저장된 모든 제출하지 않아도됩니다. 만약 당신이 사고에 의해 유효한 필드를 삭제하거나 양식, 이전 페이지로 돌아가 새로운 테스트를 보내 제출에 저장된 정보를 변경하고 싶습니다.";
-$LANG["text_add_form_step_3_para_2"] = "참고 : 만약 당신이 확인란을 선택 또는 다중를 통해 귀하의 필드 이름을 [] 문자 (자세한 내용은 <a href=\"http://docs.cloudservetechcentral.com/\" target=\"_blank\">사용자 설명서를</a> 볼 수 있는지 확인합니다 - 종료를 선택하십시오 상자에서 여러 개의 값을 보내는거야).";
+$LANG["text_add_form_step_3_para_2"] = "참고 : 만약 당신이 확인란을 선택 또는 다중를 통해 귀하의 필드 이름을 [] 문자 (자세한 내용은 <a href=\"http://docs.forms.cloudservetechcentral.com/\" target=\"_blank\">사용자 설명서를</a> 볼 수 있는지 확인합니다 - 종료를 선택하십시오 상자에서 여러 개의 값을 보내는거야).";
 $LANG["text_add_form_step_3_text_1"] = "즐거움이 시작하는 위치를 여기있어! 이 시점에서, 양식 도구는 양식에서 시험 제출을 기다리고 있습니다. 이것은 데이터베이스에 저장되어야 어떤 정보를 알고이 양식 제출을 사용합니다.";
 $LANG["text_add_form_step_3_text_2"] = "양식 도구를 귀하의 양식을 가리 키";
 $LANG["text_add_form_step_3_text_3"] = "양식 도구 API를 사용하여";
@@ -732,7 +732,7 @@ $LANG["text_also_default_login_page_theme"] = "(또한 기본 로그인 페이�
 $LANG["text_cache_folder_cleared"] = "Cache folder cleared.";
 $LANG["text_cache_folder_invalid_permissions"] = "The cache folder needs to have full read-write permissions.";
 $LANG["text_cache_folder_not_writable"] = "Cache folder is not valid or writable.";
-$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
+$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.forms.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
 $LANG["text_cannot_clear_cache_folder"] = "We were unable to delete all files in your cache folder.";
 $LANG["text_choose_form_type"] = "먼저 양식 유형을 선택하십시오.";
 $LANG["text_client_form_page"] = "이 페이지의 모든 양식 및보기이 클라이언트에 할당을 나열합니다. 팁 : 순서대로 그들에게 양식 제출보고, 그들이 필요로 적어도 하나의보기로 할당됩니다.";
@@ -787,8 +787,8 @@ $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;알 �
 $LANG["text_install_db_tables_error_tip_2"] = "<span class=\"green\">&quot;로컬 MySQL 서버 소켓&quot;을 통해 연결할 수없습니다</span> 호스트 이름 필드에 데이터베이스의 의미를 다시 잘못된 것입니다.";
 $LANG["text_install_db_tables_error_tip_3"] = "<span class=\"green\">&quot;사용자에 대한 액세스가 거부되었습니다 :&quot;거기에</span> 귀하의 사용자 이름 / 암호 조합에 문제가있는 것을 의미합니다.";
 $LANG["text_install_db_tables_error_tip_4"] = "<span class=\"green\">&quot;사용자에 대한 액세스가 거부되었습니다 : ... 데이터베이스에 ...&quot;비록</span> 귀하의 사용자 이름과 비밀 번호가 정확한지 공급 즉, 그 계정에 특정 데이터베이스에 연결하지 못했습니다 의미합니다. 이것도 당신의 데이터베이스 이름, 또는 올바르지 않습니다이 사용자 계정은 데이터베이스와 연결되어 있지 않습니다 의미할 수있습니다.";
-$LANG["text_install_email_content_text"] = "온라인 문서 (https://docs.cloudservetechcentral.com) 및 자습서 (https://docs.cloudservetechcentral.com/tutorials)를 비롯하여 시작에 도움이되는 많은 정보가 웹 사이트에 있습니다. 문제가 있거나 질문이있는 경우 github (https://github.com/formtools/core/issues/)에서 질문하십시오.";
-$LANG["text_install_form_tools_server_not_supported"] = "죄송합니다, 양식 도구는 서버에서 실행하실 수 없습니다. <a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">여기를 클릭하십시오</a> 최소 요구 사항.";
+$LANG["text_install_email_content_text"] = "온라인 문서 (https://docs.forms.cloudservetechcentral.com) 및 자습서 (https://docs.forms.cloudservetechcentral.com/tutorials)를 비롯하여 시작에 도움이되는 많은 정보가 웹 사이트에 있습니다. 문제가 있거나 질문이있는 경우 github (https://github.com/formtools/core/issues/)에서 질문하십시오.";
+$LANG["text_install_form_tools_server_not_supported"] = "죄송합니다, 양식 도구는 서버에서 실행하실 수 없습니다. <a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">여기를 클릭하십시오</a> 최소 요구 사항.";
 $LANG["text_install_system_check"] = "이 페이지는 귀하의 시스템을 사용하면 양식 도구를 실행할 수의 보장에 관한 몇 가지 검사를 실행합니다.";
 $LANG["text_installation_intro"] = "Select your language and let's get started.";
 $LANG["text_installation_session_expired"] = "Sorry, your session has expired. You will need to begin the installation process again. Click the button below.";
@@ -814,7 +814,7 @@ $LANG["text_no_modules_found"] = "아니 모듈을 찾을 수없습니다. 귀�
 $LANG["text_no_recipients_added"] = "안받는 사람이 추가되었습니다.";
 $LANG["text_no_search_results"] = "이 검색 결과가없습니다 기준 /보기입니다.";
 $LANG["text_no_submissions_found"] = "죄송합니다, 아니 제출을 발견했다.";
-$LANG["text_no_themes"] = "당신은 정의된 테마가 없습니다. 테마 목록을 새로 고치거나 확인하려면 아래 버튼을 클릭 <a href=\"https://docs.cloudservetechcentral.com/userdoc/themes/\">양식 도구 사용자 문서</a> 테마를 추가에 대한 자세한 내용은합니다.";
+$LANG["text_no_themes"] = "당신은 정의된 테마가 없습니다. 테마 목록을 새로 고치거나 확인하려면 아래 버튼을 클릭 <a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/themes/\">양식 도구 사용자 문서</a> 테마를 추가에 대한 자세한 내용은합니다.";
 $LANG["text_non_deletable_fields"] = "이 필드는 코어 스크립트에 의해 사용되며 편집 또는 비호환성을 유발하지 않고 삭제할 수 없습니다. 이 필드 유형을 변경하고자 할 경우, 그것의 복사본을 만들어 복사본을 편집합니다.";
 $LANG["text_option_list_group_explanation"] = "이것이 선택되어 있으면 옵션을 그룹에 있습니다. 어떻게 그룹이 표시됩니다하면이 옵션 목록을 사용하여 필드 종류에 따라 다릅니다.";
 $LANG["text_option_list_page"] = "라디오 버튼, 체크 박스, 드롭 다운 및 다중 선택 드롭 다운 필드는 모든 사람들이 하나 이상의 항목을 선택할 수있는 여러 옵션을 사용자에게 제공합니다. 양식 도구에서 이러한 옵션 목록으로 알려져 있습니다. 일반적으로, 이들은에 의해 자동으로 생성됩니다 <a href=\"{\$link}\">추가 외부 폼</a> 처리하지만 양식 내용 변경 또는 내부 적으로만 사용하는 필드를 만들 경우에는 수동으로 아래에 옵션 목록을 추가하거나 편집할 수 있습니다.";
@@ -822,7 +822,7 @@ $LANG["text_option_list_used_by_fields"] = "이 옵션은 목록은 여러 양�
 $LANG["text_public_form_omit_list_page"] = "<b>공공</b> 형태의 모든 클라이언트 계정을 수동으로 각 클라이언트에 할당하지 않고 액세스 해줘서의 혜택을주고. 이 페이지에서이 양식에 액세스하지 못할 수있습니다 이러한 클라이언트 비록 양식을 공용으로 정확하게 표시되고있습니다.";
 $LANG["text_public_view_omit_list_page"] = "공용 조회하면 모든 클라이언트 계정을 수동으로 각 클라이언트에 할당하지 않고 액세스 해줘서의 혜택을주고. 이 페이지는 당신이 특정보기에 액세스하지 못할 수있습니다 이러한 클라이언트를 정확하게 할 수있습니다.";
 $LANG["text_reference_tab_info"] = "이 페이지는 양식에서 사용할 수있는 모든 자리 표시자를 나열합니다. 자리 표시자은 이메일 템플릿에서 사용할 수있는 문자열이며, 필드는 특별한 자리 표시자 아이콘으로 표시 <img src=\"{\$g_root_url}/global/images/lang_placeholder_field_icon.png\" /> . 필드에 입력하면, 그들은 동적으로 필드가 조회하거나 이메일이 보내집니다 적절한 값으로 변환됩니다.";
-$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
+$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.forms.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
 $LANG["text_review_user_doc"] = "검토 사용자 설명서";
 $LANG["text_send_email_from_edit_submission_page"] = "접수 수정 페이지에서이 이메일을 보내도록 포함 옵션";
 $LANG["text_smart_fill_option_list_problem"] = "우리는 스마트 귀하의 필드 옵션을 선택하실 수 없습니다. 그러나, 대안으로, 아래의 입력란에 양식 페이지의 사본을 업로드하실 수 있습니다. 참고 : 원시 PHP 페이지 (또는 다른 서버 쪽 코드)를 <b>업로드하지</b> 않아 - 단지 HTML 버전을 업로드하십시오. 이것을하려면, 웹 브라우저에서 페이지를보고 저장할 수 있습니다.";
@@ -831,7 +831,7 @@ $LANG["text_system_check_passed"] = "Your system is able to run CloudserveForms.
 $LANG["text_tables_exist_desc"] = "Sorry, it appears that some tables already exist with the table prefix that you entered. You can either choose to overwrite these tables or pick a new table prefix.";
 $LANG["text_test_email"] = "중 하나를 보거나 자신이 이메일에서 템플릿을 생성 이메일을 보낼 아래 양식을 사용하십시오. <b>이메일은</b> 이메일을 아래에 지정된에게 보내집니다;, 참조 및 숨은 참조 기본 이메일 주소를받는 동안 테스트를 무시됩니다.";
 $LANG["text_test_email_templates_no_submissions"] = "위해서 귀하의 이메일을 테스트 템플릿을 먼저 적어도 하나의 양식을 제출 연결해합니다.";
-$LANG["text_theme_page_intro"] = "이 페이지는 귀하의 테마를 모두 나열됩니다. 엄지 손톱을 클릭 테마 스타일의 큰 예를 볼 수있습니다. &quot;&quot;확인란의 여부에 상관없이 클라이언트에 의해 그 테마를 선택할 수있습니다 결정 사용할 수있습니다. , <a href=\"http://themes.cloudservetechcentral.com\" target=\"_blank\">양식 도구 웹 사이트를</a> 방문하십시오 사용할 수있는 모든 주제를 검색하십시오.";
+$LANG["text_theme_page_intro"] = "이 페이지는 귀하의 테마를 모두 나열됩니다. 엄지 손톱을 클릭 테마 스타일의 큰 예를 볼 수있습니다. &quot;&quot;확인란의 여부에 상관없이 클라이언트에 의해 그 테마를 선택할 수있습니다 결정 사용할 수있습니다. , <a href=\"http://themes.forms.cloudservetechcentral.com\" target=\"_blank\">양식 도구 웹 사이트를</a> 방문하십시오 사용할 수있는 모든 주제를 검색하십시오.";
 $LANG["text_tutorial_adding_first_form"] = "자습서 : 첫 번째 양식을 추가!";
 $LANG["text_unique_submission_id"] = "제출 고유 ID입니다.";
 $LANG["text_unused_option_list"] = "이 옵션 목록은 모든 양식 필드에서 사용되지 않습니다.";

@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Filen <b>{\$filename}</b> i mappen <b>{\$fo
 $L["notify_files_unknown_reasons"] = "Dessa filer kunde inte tas bort på grund av okända skäl: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Återställ fälttyp";
 $L["phrase_no_files_to_delete"] = "Inga filer att radera.";
-$L["text_help"] = "Mer information om denna modul finns i <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjälpdokumentationen</a> på formulärverktygssidan.";
+$L["text_help"] = "Mer information om denna modul finns i <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjälpdokumentationen</a> på formulärverktygssidan.";
 $L["text_reset_field_type_desc"] = "Med den här knappen nedan kan du återställa den här fälttypen till de senaste fabriksinställningarna. Generellt behöver du inte göra det, men i händelse av en misslyckad uppgradering är det ett felaktigt sätt att se till att den är uppdaterad.";
 $L["text_intro_desc"] = "Använd <a href=\"{\$link}\">Inställningar &raquo; Filer</a> för att definiera standardinställningarna för filuppladdning. Du kan åsidosätta dessa inställningar genom att redigera något formulärfält via Redigera formuläret &raquo; Fliken Fält.";
 $L["word_help"] = "Hjälp";

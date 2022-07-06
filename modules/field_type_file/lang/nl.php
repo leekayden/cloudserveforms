@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Het bestand <b>{\$filename}</b> in de map <
 $L["notify_files_unknown_reasons"] = "Deze bestanden kunnen vanwege onbekende redenen niet worden verwijderd: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Reset veldtype";
 $L["phrase_no_files_to_delete"] = "Geen bestanden om te verwijderen.";
-$L["text_help"] = "Raadpleeg de <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Help-documentatie</a> op de website CloudserveForms voor meer informatie over deze module.";
+$L["text_help"] = "Raadpleeg de <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Help-documentatie</a> op de website CloudserveForms voor meer informatie over deze module.";
 $L["text_reset_field_type_desc"] = "Met deze knop hieronder kunt u dit veldtype resetten naar de laatste fabrieksinstellingen. Over het algemeen hoeft u dit niet te doen, maar in het geval van een mislukte upgrade is dit een failsafe manier om ervoor te zorgen dat het up-to-date is.";
 $L["text_intro_desc"] = "Gebruik de <a href=\"{\$link}\">instellingen &raquo; Bestanden</a> pagina om de standaard instellingen voor het uploaden van bestanden te definiëren. U kunt deze instellingen overschrijven door een formulierveld te bewerken via het bewerkingsformulier &raquo; Tabblad Velden.";
 $L["word_help"] = "Helpen";

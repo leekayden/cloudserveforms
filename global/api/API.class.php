@@ -1351,7 +1351,7 @@ END;
 
         echo <<< END
 <div style="padding: 8px; margin: 8px; background-color: #f2dede; border: 1px solid #ebccd1; border-radius: 4px; color: #a94442; display: inline-block; font-family: arial; font-size: 13px; ">
-    <b>CloudserveForms API Error:</b> $error_code - <a href="https://docs.cloudservetechcentral.com/api/v2/error_codes/#{$error_code}">{$LANG["phrase_error_learn_more"]}</a>
+    <b>CloudserveForms API Error:</b> $error_code - <a href="https://docs.forms.cloudservetechcentral.com/api/v2/error_codes/#{$error_code}">{$LANG["phrase_error_learn_more"]}</a>
 </div>
 END;
     }

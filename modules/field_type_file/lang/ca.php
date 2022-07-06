@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "El fitxer <b>{\$filename}</b> a la carpeta 
 $L["notify_files_unknown_reasons"] = "No s'han pogut eliminar aquests fitxers per motius desconeguts: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Restablir el tipus de camp";
 $L["phrase_no_files_to_delete"] = "No hi ha fitxers per esborrar.";
-$L["text_help"] = "Per obtenir més informació sobre aquest mòdul, consulteu la <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentació d'ajuda</a> al lloc CloudserveForms.";
+$L["text_help"] = "Per obtenir més informació sobre aquest mòdul, consulteu la <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentació d'ajuda</a> al lloc CloudserveForms.";
 $L["text_reset_field_type_desc"] = "Aquest botó a continuació permet reiniciar aquest tipus de camp als valors predeterminats de fàbrica més recents. En general, no heu de fer això, però en cas d'una actualització fracassada, aquesta és una forma segura a l'hora d'assegurar-vos que estigui actualitzat";
 $L["text_intro_desc"] = "Utilitzeu la <a href=\"{\$link}\">Configuració &raquo; Fitxers</a> pàgina per definir la configuració predeterminada de càrrega d'arxius. Podeu anul·lar aquests paràmetres editant qualsevol camp de formulari a través del formulari d'edició &raquo; Pestanya de camps.";
 $L["word_help"] = "Ajuda";

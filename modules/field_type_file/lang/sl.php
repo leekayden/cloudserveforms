@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Datoteke <b>{\$filename}</b> v mapi <b>{\$f
 $L["notify_files_unknown_reasons"] = "Teh datotek ni bilo mogoče odstraniti iz neznanih razlogov: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Ponastavi vrsto polja";
 $L["phrase_no_files_to_delete"] = "Ni datotek za brisanje.";
-$L["text_help"] = "Za več informacij o tem modulu si oglejte <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentacijo za pomoč</a> na spletnem mestu Orodja za obrazce.";
+$L["text_help"] = "Za več informacij o tem modulu si oglejte <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentacijo za pomoč</a> na spletnem mestu Orodja za obrazce.";
 $L["text_reset_field_type_desc"] = "Ta gumb spodaj omogoča ponastavitev te vrste polja na zadnje tovarniške nastavitve. Na splošno vam tega ni treba storiti, toda v primeru neuspešne nadgradnje je to preprost način za zagotovitev, da je posodobljen.";
 $L["text_intro_desc"] = "Uporabite <a href=\"{\$link}\">Nastavitve &raquo; Datoteke</a>, da določite privzete nastavitve za nalaganje datotek. Te nastavitve lahko razveljavite tako, da uredite poljubno polje v obrazcu za urejanje Zavihek Polja.";
 $L["word_help"] = "Pomoč";

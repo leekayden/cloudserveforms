@@ -5,7 +5,7 @@ namespace FormTools;
 
 class Packages
 {
-	// $url = "http://localhost:8888/formtools-site/cdn.cloudservetechcentral.com/modules/arbitrary_settings-2.0.2.zip";
+	// $url = "http://localhost:8888/formtools-site/cdn.forms.cloudservetechcentral.com/modules/arbitrary_settings-2.0.2.zip";
 
 	/**
 	 * Downloads a single component and unpacks it at the appropriate location.

@@ -9,7 +9,7 @@ require_once($path_to_api_v1);
 
 <h4>Documentation</h4>
 
-See: <a href="https://docs.cloudservetechcentral.com/api/ft_api_show_submission_count/" target="_blank">https://docs.cloudservetechcentral.com/api/ft_api_show_submission_count/</a>
+See: <a href="https://docs.forms.cloudservetechcentral.com/api/ft_api_show_submission_count/" target="_blank">https://docs.forms.cloudservetechcentral.com/api/ft_api_show_submission_count/</a>
 
 <hr size="1" />
 

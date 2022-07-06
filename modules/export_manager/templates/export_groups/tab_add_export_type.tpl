@@ -27,7 +27,7 @@
             <td>
                 <input type="text" name="filename" value="{literal}submissions-{$M}.{$j}.html{/literal}"
                        style="width:200px" maxlength="50"/>
-                <a href="http://modules.cloudservetechcentral.com/export_manager/documentation.php?page=filename_placeholders">{$L.phrase_view_available_placeholders}</a>
+                <a href="http://modules.forms.cloudservetechcentral.com/export_manager/documentation.php?page=filename_placeholders">{$L.phrase_view_available_placeholders}</a>
             </td>
         </tr>
     </table>
