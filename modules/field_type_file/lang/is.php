@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Þessar skrár voru ekki hægt að fjarlæg
 $L["notify_files_unknown_reasons"] = "Þessar skrár voru ekki hægt að fjarlægja vegna óþekktra ástæðna: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Endurstilla reitategund";
 $L["phrase_no_files_to_delete"] = "Engar skrár til að eyða.";
-$L["text_help"] = "Nánari upplýsingar um þennan einingu er að finna í <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjálpardagbókina</a> á síðunni CloudserveForms.";
+$L["text_help"] = "Nánari upplýsingar um þennan einingu er að finna í <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hjálpardagbókina</a> á síðunni CloudserveForms.";
 $L["text_reset_field_type_desc"] = "Þessi hnappur hér að neðan gerir þér kleift að endurstilla þessa reitategund í nýjustu verksmiðjustillingar. Venjulega þarftu ekki að gera þetta, en ef mistekist uppfærsla er þetta óöruggur leið til að tryggja að það sé uppfært.";
 $L["text_intro_desc"] = "Notaðu <a href=\"{\$link}\">Stillingar &raquo; Skrár</a> síðu til að skilgreina sjálfgefnar stillingar skráarupphæð. Þú getur hunsað þessar stillingar með því að breyta hvaða eyðublað sem er með því að nota Breyta eyðublaðinu &raquo; Flipa flipa.";
 $L["word_help"] = "Hjálp";

@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Die Datei <b>{\$filename}</b> im Ordner <b>
 $L["notify_files_unknown_reasons"] = "Diese Dateien konnten aus unbekannten Gründen nicht entfernt werden: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Feldtyp zurücksetzen";
 $L["phrase_no_files_to_delete"] = "Keine Dateien zum Löschen";
-$L["text_help"] = "Weitere Informationen zu diesem Modul finden Sie in der <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Hilfedokumentation</a> auf der CloudserveForms-Website.";
+$L["text_help"] = "Weitere Informationen zu diesem Modul finden Sie in der <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">Hilfedokumentation</a> auf der CloudserveForms-Website.";
 $L["text_reset_field_type_desc"] = "Mit dieser Schaltfläche können Sie diesen Feldtyp auf die neuesten Werkseinstellungen zurücksetzen. Im Allgemeinen müssen Sie dies nicht tun, aber im Falle eines fehlgeschlagenen Upgrades ist dies eine ausfallsichere Methode, um sicherzustellen, dass es auf dem neuesten Stand ist.";
 $L["text_intro_desc"] = "Verwenden Sie die <a href=\"{\$link}\">Einstellungen &raquo; Seite Dateien</a>, um die Standardeinstellungen für das Hochladen von Dateien festzulegen. Sie können diese Einstellungen überschreiben, indem Sie jedes Formularfeld über das Formular bearbeiten &raquo; Registerkarte \"Felder\"";
 $L["word_help"] = "Hilfe";

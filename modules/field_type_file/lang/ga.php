@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Níorbh fhéidir an comhad <b>{\$filename}<
 $L["notify_files_unknown_reasons"] = "Níorbh fhéidir na comhaid seo a bhaint de bharr cúiseanna anaithnid: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Athshocraigh Cineál Réimse";
 $L["phrase_no_files_to_delete"] = "Gan comhaid a scriosadh.";
-$L["text_help"] = "Chun tuilleadh eolais a fháil faoin modúl seo, féach an doiciméadú <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">do theachtaireacht</a> ar shuíomh Uirlisí Foirm.";
+$L["text_help"] = "Chun tuilleadh eolais a fháil faoin modúl seo, féach an doiciméadú <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">do theachtaireacht</a> ar shuíomh Uirlisí Foirm.";
 $L["text_reset_field_type_desc"] = "Leis an gcnaipe seo thíos, ligeann duit an cineál réimse seo a athshocrú leis na mainneachtainí is déanaí sa mhonarcha. Go ginearálta ní gá duit é seo a dhéanamh, ach i gcás uasghrádú theipthe, is bealach sásúil é seo chun a chinntiú go bhfuil sé cothrom le dáta.";
 $L["text_intro_desc"] = "Bain úsáid as an <a href=\"{\$link}\">Socruithe &raquo; Comhaid</a> chun na socruithe réamhshocraithe uaslódáil comhaid a shainmhíniú. Is féidir leat na socruithe sin a mhaolú trí réimse d'fhoirm ar bith a eagrú tríd an bhFoirm Athraigh &raquo; Tab cluaisíní.";
 $L["word_help"] = "Cabhrú";

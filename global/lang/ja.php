@@ -176,7 +176,7 @@ $LANG["notify_submissions_and_files_deleted"] = "提出し、任意の（秒）�
 $LANG["notify_submissions_copied"] = "<b>{\$num_submissions}</b>件の投稿がコピーされています。";
 $LANG["notify_submissions_deleted"] = "応募が正常に削除されました。";
 $LANG["notify_submissions_deleted_with_problems"] = "応募には、削除された以下の問題は、以下のファイル（秒）を削除しようとすると発生しました：";
-$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
+$LANG["notify_suhosin_installed"] = "Warning: the <b>Suhosin PHP extension</b> is installed on your server. This may cause problems with your forms on your site. <a href=\"https://docs.forms.cloudservetechcentral.com/installation/suhosin/\" target=\"_blank\">Click here</a> for more information.";
 $LANG["notify_test_email_not_sent"] = "テストメールを送信できませんでした。";
 $LANG["notify_theme_cache_folder_not_writable"] = "このテーマのキャッシュフォルダに書き込み可能ではありません。ためには<b>{\$folder}</b>フォルダをする必要があります完全な読み取りニーズに書き込みのアクセス許可は、このテーマを有効にします。";
 $LANG["notify_theme_list_updated"] = "テーマのリストが更新されています。";
@@ -683,7 +683,7 @@ $LANG["special_language_locale"] = "Japanese";
 $LANG["special_text_direction"] = "ltr";
 $LANG["text_account_settings_page"] = "すべての新しいクライアントアカウントの設定とアクセス許可を以下の定義が作成されます。特定のクライアントでは、クライアントのアカウントを編集して[設定]タブを参照して設定を上書きする。";
 $LANG["text_add_form_choose_integration_method"] = "[フォームツールを使用してフォームを統合するために使用する方法を選択します。";
-$LANG["text_add_form_code_submission_benefits"] = "この方式では、 <a href=\"http://docs.cloudservetechcentral.com/api/\" target=\"_blank\">フォームツールAPI</a>メインフォームの[ツール]スクリプトに含まれているが、。 APIは、可能な限り単純にフォームツールを使用してフォームを統合するための仕事を作っておくと便利な機能が多数用意されています。あなたがAPIを使用するときにフォームが送信されることがありますどのように制限はありません。あなたがページで一度、またはページ内のコンテンツを提出することができます。あなたは、CAPTCHA画像を独自のカスタムサーバー側の検証を追加することができます。あなたは今の情報を提出するなどの選択が唯一のフォームツールUIの提出を表示するためにそれを伝えることができます後日（参照してください<a href=\"http://docs.cloudservetechcentral.com/api/?page=finalized_submissions\">ファイナライズ提出の</a> APIのヘルプドキュメントのセクションを）。";
+$LANG["text_add_form_code_submission_benefits"] = "この方式では、 <a href=\"http://docs.forms.cloudservetechcentral.com/api/\" target=\"_blank\">フォームツールAPI</a>メインフォームの[ツール]スクリプトに含まれているが、。 APIは、可能な限り単純にフォームツールを使用してフォームを統合するための仕事を作っておくと便利な機能が多数用意されています。あなたがAPIを使用するときにフォームが送信されることがありますどのように制限はありません。あなたがページで一度、またはページ内のコンテンツを提出することができます。あなたは、CAPTCHA画像を独自のカスタムサーバー側の検証を追加することができます。あなたは今の情報を提出するなどの選択が唯一のフォームツールUIの提出を表示するためにそれを伝えることができます後日（参照してください<a href=\"http://docs.forms.cloudservetechcentral.com/api/?page=finalized_submissions\">ファイナライズ提出の</a> APIのヘルプドキュメントのセクションを）。";
 $LANG["text_add_form_code_submission_drawbacks"] = "PHP経由でフォームデータを送信するためには、あなたのフォームは、このフォームツールのインストールと同じサイトに配置する必要があります。第二に、非技術と初心者フォームツールユーザーのために、このメソッドは最初は少し威圧することができます。しかし、あなたのシングルおよびマルチページのフォームを（これらは後のステップにリンクされている）の統合の2つの簡単なチュートリアルを含めて、あなたを手助けするドキュメントがたっぷりです。";
 $LANG["text_add_form_direct_submission_benefits"] = "このフォームのツールには、フォームを送信する最も簡単な方法です。これはPHPの知識は一切必要としませんし、フォームは、非常に小さな変更が必要です。それは小さなフォームの場所だけをデータベースにして情報を送信するには、&quot;感謝の意を&quot;のページにユーザーをリダイレクトする素晴らしいことだ。";
 $LANG["text_add_form_direct_submission_drawbacks"] = "この提出方法は非常に使用して、シンプルだが、より複雑なフォームの多くのコントロールを提供していません。マルチページのフォームまたはそのサーバー側の検証を必要とするフォームより、2番目の方法に適しています：フォームツールAPIを介して提出した。";
@@ -704,7 +704,7 @@ $LANG["text_add_form_field_types_multiple_fields_found6"] = "フォームは、�
 $LANG["text_add_form_field_types_multiple_fields_found7"] = "このブラウザの別タブ/ウィンドウで、フィールドを再度見つけることを試みるために、以下の[更新]ページのボタンをクリックしてフォームにログインします。";
 $LANG["text_add_form_field_types_multiple_fields_found8"] = "上記のソリューションの作業なしなら、あなたも試してみてください<a href=\"#\" onclick=\"{\$ONCLICK}\">手動で処理するために、フォームをアップロードする</a> 。";
 $LANG["text_add_form_field_types_multiple_fields_found9"] = "指定したフォームのページで見つけることができなかった複数のフィールドがあった。これは、通常、これらのいずれかが原因で発生します。";
-$LANG["text_add_form_help_link"] = "これらの手順中にトラブルに遭遇した場合、読み出すてみてください<a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">ユーザーマニュアルを</a> 。";
+$LANG["text_add_form_help_link"] = "これらの手順中にトラブルに遭遇した場合、読み出すてみてください<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">ユーザーマニュアルを</a> 。";
 $LANG["text_add_form_step_1_text_1"] = "次のページ設定フォームツールするための手順を介して、フォームの送信を格納するために導く。続行する前に、チェックしてくださいは：";
 $LANG["text_add_form_step_1_text_2"] = "フォームが既に作成されており、それはURL（localhostを介してアクセスすることが良いです）";
 $LANG["text_add_form_step_1_text_3"] = "あなたのフォームを編集することができます";
@@ -713,7 +713,7 @@ $LANG["text_add_form_step_2_para_3"] = "次に<a href=\"{\$linktoform}\" target=
 $LANG["text_add_form_step_2_para_6"] = "フォームの提出には、次の値が含まれます。彼らは、直接PHPを介して設定される可能性がありますまたはフォーム自体を介して一緒に渡されます。以下にそれぞれの例です。 （\$変数名）はハッシュのすべてのフォームの提出（情報の配列または連想配列） - これは、通常は、（\$ postvar）または（\$ sessionvar）変数ですが、それがありますが、カスタム建てた。";
 $LANG["text_add_form_step_2_text_2"] = "ここに&quot;ありがとう&quot;ページのURLを入力してください。もしフォームが送信された後に人々がにダイレクトさせる場所です。";
 $LANG["text_add_form_step_3_para_1"] = "このページでは、フォーム送信のすべてのフィールドを示します。各フィールドを調べ、すべてを削除する場合すべての提出を保存する必要はありません。場合は事故では、有効なフィールドを削除するか、フォームには、前のページに戻るには、新しいテスト提出を送るに保存された情報を変更したいと思います。";
-$LANG["text_add_form_step_3_para_2"] = "注：場合は、チェックボックスまたは複数を介して、フィールド名は[]文字（詳細については、 <a href=\"http://docs.cloudservetechcentral.com/\" target=\"_blank\">ユーザーマニュアルを</a>参照してくださいで終わっていることを確認、選択ボックスは、複数の値を送信している）。";
+$LANG["text_add_form_step_3_para_2"] = "注：場合は、チェックボックスまたは複数を介して、フィールド名は[]文字（詳細については、 <a href=\"http://docs.forms.cloudservetechcentral.com/\" target=\"_blank\">ユーザーマニュアルを</a>参照してくださいで終わっていることを確認、選択ボックスは、複数の値を送信している）。";
 $LANG["text_add_form_step_3_text_1"] = "楽しみが始めるところです！この時点で、フォームのツールは、フォームからのテストの提出を待っています。それは、データベースに格納すべきかの情報を知るためにこのフォーム送信を使用します。";
 $LANG["text_add_form_step_3_text_2"] = "フォームツールにフォームを指摘することによって";
 $LANG["text_add_form_step_3_text_3"] = "フォームツールのAPIを使用して";
@@ -732,7 +732,7 @@ $LANG["text_also_default_login_page_theme"] = "（また、デフォルトのロ
 $LANG["text_cache_folder_cleared"] = "Cache folder cleared.";
 $LANG["text_cache_folder_invalid_permissions"] = "The cache folder needs to have full read-write permissions.";
 $LANG["text_cache_folder_not_writable"] = "Cache folder is not valid or writable.";
-$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
+$LANG["text_cache_folder_problem"] = "<b>Warning</b>: your cache folder is not writable. To remove this message, please follow the <a href=\"https://docs.forms.cloudservetechcentral.com/upgrading/3_1_5/\">instructions here</a>.";
 $LANG["text_cannot_clear_cache_folder"] = "We were unable to delete all files in your cache folder.";
 $LANG["text_choose_form_type"] = "最初に、フォームのタイプを選択してください。";
 $LANG["text_client_form_page"] = "このページのすべてのフォームとビューは、このクライアントに割り当てられて表示されます。ヒント：ためにそれらは、フォームの提出を見て、彼らが少なくとも1つのビューに割り当てることができます。";
@@ -787,8 +787,8 @@ $LANG["text_install_db_tables_error_tip_1"] = "<span class=\"green\">&quot;不�
 $LANG["text_install_db_tables_error_tip_2"] = "<span class=\"green\">&quot;ローカルのMySQLサーバへのソケット&quot;を介して接続することはできません</span>データベースのホスト名フィールドの意味を再度間違っています。";
 $LANG["text_install_db_tables_error_tip_3"] = "<span class=\"green\">&quot;Accessユーザーのため拒否されました：&quot;それ</span>はそちらにあなたのユーザ名/パスワードの組み合わせに問題があるということです。";
 $LANG["text_install_db_tables_error_tip_4"] = "<span class=\"green\">&quot;Accessのユーザーが拒否さ：...データベースに...&quot;</span>ただし、ユーザー名とパスワードが正しいこと指定されたパスワードは、そのアカウントでは、特定のデータベースに接続することができなかったということです。これは、いずれかのデータベース名、または間違っていますが、このユーザアカウントは、データベースに関連付けられていないことを意味することができます。";
-$LANG["text_install_email_content_text"] = "Googleのオンラインドキュメント（https://docs.cloudservetechcentral.com）やチュートリアル（https://docs.cloudservetechcentral.com/tutorials）をはじめ、弊社のWebサイトには多くのリソースが用意されています。 立ち往生したり、質問がある場合は、github（https://github.com/formtools/core/issues/）で質問してください。";
-$LANG["text_install_form_tools_server_not_supported"] = "申し訳ありませんが、フォームツールは、サーバ上で実行することができなくなります。 <a href=\"https://docs.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">こちらをクリックしてください</a>最小要件のために。";
+$LANG["text_install_email_content_text"] = "Googleのオンラインドキュメント（https://docs.forms.cloudservetechcentral.com）やチュートリアル（https://docs.forms.cloudservetechcentral.com/tutorials）をはじめ、弊社のWebサイトには多くのリソースが用意されています。 立ち往生したり、質問がある場合は、github（https://github.com/formtools/core/issues/）で質問してください。";
+$LANG["text_install_form_tools_server_not_supported"] = "申し訳ありませんが、フォームツールは、サーバ上で実行することができなくなります。 <a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/form_management/adding_external_forms/\" target=\"_blank\">こちらをクリックしてください</a>最小要件のために。";
 $LANG["text_install_system_check"] = "このページはあなたのシステムは、フォームツールを実行することができるのを確保するためにいくつかのテストを実行します。";
 $LANG["text_installation_intro"] = "Select your language and let's get started.";
 $LANG["text_installation_session_expired"] = "Sorry, your session has expired. You will need to begin the installation process again. Click the button below.";
@@ -814,7 +814,7 @@ $LANG["text_no_modules_found"] = "なしモジュールが見つかりません�
 $LANG["text_no_recipients_added"] = "いいえ受信者が追加されている。";
 $LANG["text_no_search_results"] = "この検索条件での検索結果/表示されます。";
 $LANG["text_no_submissions_found"] = "申し訳ありませんが、応募が発見された。";
-$LANG["text_no_themes"] = "あなたが定義されているテーマを持っていない。あなたのテーマのリストをリフレッシュするには、以下のボタンをクリック、またはチェック<a href=\"https://docs.cloudservetechcentral.com/userdoc/themes/\">フォームツールのユーザーマニュアル</a>のテーマの追加については、を。";
+$LANG["text_no_themes"] = "あなたが定義されているテーマを持っていない。あなたのテーマのリストをリフレッシュするには、以下のボタンをクリック、またはチェック<a href=\"https://docs.forms.cloudservetechcentral.com/userdoc/themes/\">フォームツールのユーザーマニュアル</a>のテーマの追加については、を。";
 $LANG["text_non_deletable_fields"] = "このフィールドは、コアのスクリプトによって使用され、互換性の問題を発生させることなく編集または削除することはできません。もしフィールドの型を変更したい場合は、それのコピーを作成し、そのコピーを編集します。";
 $LANG["text_option_list_group_explanation"] = "これが選択されている場合、それはあなたの選択肢をグループ化することができます。どのようにグループが表示されていると、このオプションのリストを使用してフィールドのタイプによって異なります。";
 $LANG["text_option_list_page"] = "ラジオボタン、チェックボックス、ドロップダウンと複数選択のドロップダウンフィールドは、すべてそれらが1つ以上のアイテムを選択できる複数のオプションをユーザーに提供します。フォームツールでは、これらのオプションリストとして知られています。一般に、これらはによって自動的に作成されている<a href=\"{\$link}\">追加の外部形式の</a>プロセスが、あなたのフォームの内容が変更またはあなたが内部でのみ使用されるフィールドを構築する場合は、手動で下記にオプションのリストを追加または編集できます。";
@@ -822,7 +822,7 @@ $LANG["text_option_list_used_by_fields"] = "このオプションリストは、
 $LANG["text_public_form_omit_list_page"] = "<b>公共の</b>フォームを使用するすべてのクライアントアカウントを手動でそれらを各クライアントに割り当てることなく、それらにアクセスできるの恩恵を与える。このページでは、このフォームにアクセスできないことがあります、これらのクライアントにもかかわらず、フォームをパブリックとしてマークされて特定することができます。";
 $LANG["text_public_view_omit_list_page"] = "パブリックビューをすべてのクライアントアカウントを手動でそれらを各クライアントに割り当てることなく、それらにアクセスできるの恩恵を与える。このページでは、この特定のビューにアクセスできないことがあります、これらのクライアントを特定することができます。";
 $LANG["text_reference_tab_info"] = "このページは、フォームで使用可能なすべてのプレースホルダを示します。プレースホルダは、特殊なプレースホルダアイコンでマークされた電子メールテンプレートで使用できる文字列、およびフィールドです<img src=\"{\$g_root_url}/global/images/lang_placeholder_field_icon.png\" /> 。フィールドに入力するとき、それらは動的にフィールドが表示されたり、電子メールが送信された適切な値に変換されます。";
-$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
+$LANG["text_required_folders_need_write_permissions"] = "Please ensure the required folders have write permissions. See the <a href=\"https://docs.forms.cloudservetechcentral.com/installation/step2/\">help documentation</a> for further information.";
 $LANG["text_review_user_doc"] = "レビューは、ユーザマニュアル";
 $LANG["text_send_email_from_edit_submission_page"] = "[編集]発表のページからこのメールを送信するを含めるオプション";
 $LANG["text_smart_fill_option_list_problem"] = "我々はスマート、フィールドのオプションを記入することができませんでした。しかし、代替手段としては、以下のフィールドにフォームのページのコピーをアップロードしてみてください。注：生のPHPページ（または他のサーバーサイドコード）をアップロード<b>しない</b> -単にHTMLバージョンをアップロードする。これを取得するには、Webブラウザからページを表示して保存します。";
@@ -831,7 +831,7 @@ $LANG["text_system_check_passed"] = "Your system is able to run CloudserveForms.
 $LANG["text_tables_exist_desc"] = "Sorry, it appears that some tables already exist with the table prefix that you entered. You can either choose to overwrite these tables or pick a new table prefix.";
 $LANG["text_test_email"] = "のいずれかを表示したり、自分は、このメールテンプレートから生成された電子メールを送信するには下のフォームを使用します。メール<b>のみ</b>メールを下記の指定に送信されます、CCをメインおよびbccメールアドレスの受信者間のテストは無視されます。";
 $LANG["text_test_email_templates_no_submissions"] = "お客様の電子メールアドレスをテストするためのテンプレートは、まず、少なくとも1つのフォームの送信を介して配置する必要があります。";
-$LANG["text_theme_page_intro"] = "このページはあなたのテーマのすべての一覧を示します。サムネイルをクリックして、テーマのスタイルを取り上げている例を参照してください。 &quot;&quot;チェックボックスをオンかどうかは、そのテーマのクライアントによって選択されることが決定有効。は、 <a href=\"http://themes.cloudservetechcentral.com\" target=\"_blank\">フォームツールのWebサイト</a>を参照して、すべての利用可能なテーマを参照する。";
+$LANG["text_theme_page_intro"] = "このページはあなたのテーマのすべての一覧を示します。サムネイルをクリックして、テーマのスタイルを取り上げている例を参照してください。 &quot;&quot;チェックボックスをオンかどうかは、そのテーマのクライアントによって選択されることが決定有効。は、 <a href=\"http://themes.forms.cloudservetechcentral.com\" target=\"_blank\">フォームツールのWebサイト</a>を参照して、すべての利用可能なテーマを参照する。";
 $LANG["text_tutorial_adding_first_form"] = "チュートリアル：あなたの最初のフォームを追加する！";
 $LANG["text_unique_submission_id"] = "ユニークな提出のID。";
 $LANG["text_unused_option_list"] = "このオプションリストは、任意のフォームフィールドで使用されていません。";

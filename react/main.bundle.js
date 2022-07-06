@@ -43398,12 +43398,12 @@ object-assign
             { className: Pr.a.logo },
             h.a.createElement(
               "a",
-              { href: "https://cloudservetechcentral.com" },
+              { href: "https://forms.cloudservetechcentral.com" },
               h.a.createElement("img", {
                 src: "".concat(
                   t.rootUrl,
                   // "/themes/default/images/logo_green2x.png"
-                  "/themes/default/images/pcpslogo.png"
+                  "/themes/default/images/cloudserveforms-logo.png"
                 ),
                 border: "0",
                 width: "220",
@@ -43418,7 +43418,7 @@ object-assign
               src: "".concat(
                 t.rootUrl,
                 // "/themes/default/images/account_section_left_green2x.png"
-                "/themes/default/images/pcpslogo.png"
+                "/themes/default/images/cloudserveforms-logo.png"
               ),
               border: "0",
               width: "8",
@@ -43433,7 +43433,7 @@ object-assign
               src: "".concat(
                 t.rootUrl,
                 // "/themes/default/images/account_section_right_green2x.png"
-                "/themes/default/images/pcpslogo.png"
+                "/themes/default/images/cloudserveforms-logo.png"
               ),
               border: "0",
               width: "8",
@@ -43478,7 +43478,7 @@ object-assign
               h.a.createElement(
                 "a",
                 {
-                  href: "https://cloudservetechcentral.com",
+                  href: "https://forms.cloudservetechcentral.com",
                   target: "_blank",
                   rel: "noopener noreferrer",
                 },
@@ -57569,7 +57569,7 @@ object-assign
                         h.a.createElement(
                           "a",
                           {
-                            href: "https://docs.cloudservetechcentral.com/tutorials/adding_first_form/",
+                            href: "https://docs.forms.cloudservetechcentral.com/tutorials/adding_first_form/",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },
@@ -57582,7 +57582,7 @@ object-assign
                         h.a.createElement(
                           "a",
                           {
-                            href: "https://docs.cloudservetechcentral.com/",
+                            href: "https://docs.forms.cloudservetechcentral.com/",
                             target: "_blank",
                             rel: "noopener noreferrer",
                           },

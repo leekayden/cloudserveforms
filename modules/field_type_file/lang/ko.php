@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$folder}</b> 폴더에있는 <b>{\$fil
 $L["notify_files_unknown_reasons"] = "알 수없는 이유로 이러한 파일을 삭제할 수 없습니다 : <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "필드 유형 재설정";
 $L["phrase_no_files_to_delete"] = "삭제할 파일이 없습니다.";
-$L["text_help"] = "이 모듈에 대한 자세한 내용은 양식 도구 사이트의 <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">도움말 설명서</a>를 참조하십시오.";
+$L["text_help"] = "이 모듈에 대한 자세한 내용은 양식 도구 사이트의 <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">도움말 설명서</a>를 참조하십시오.";
 $L["text_reset_field_type_desc"] = "아래의이 버튼을 사용하여이 필드 유형을 최신 공장 기본값으로 재설정 할 수 있습니다. 일반적으로이 작업을 수행 할 필요는 없지만 업그레이드가 실패 할 경우 최신 상태를 유지할 수있는 안전 장치가됩니다.";
 $L["text_intro_desc"] = "<a href=\"{\$link}\">설정 & raquo; 파일</a> 페이지에서 기본 파일 업로드 설정을 정의하십시오. 양식 수정을 통해 양식 필드를 수정하여 해당 설정을 재정의 할 수 있습니다. &raquo; 필드 탭.";
 $L["word_help"] = "도움";

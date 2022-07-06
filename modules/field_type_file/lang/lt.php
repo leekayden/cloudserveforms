@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$filename}</b> failas aplanke <b>{\$fo
 $L["notify_files_unknown_reasons"] = "Šie failai negali būti pašalinti dėl nežinomų priežasčių: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Atstatyti lauko tipą";
 $L["phrase_no_files_to_delete"] = "Nėra failų, kuriuos norite ištrinti.";
-$L["text_help"] = "Norėdami gauti daugiau informacijos apie šį modulį, žr. <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">pagalbos dokumentaciją</a> formų įrankių svetainėje.";
+$L["text_help"] = "Norėdami gauti daugiau informacijos apie šį modulį, žr. <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">pagalbos dokumentaciją</a> formų įrankių svetainėje.";
 $L["text_reset_field_type_desc"] = "Šis žemiau pateiktas mygtukas leidžia atstatyti šį lauko tipą į naujausius gamyklinius nustatymus. Paprastai jums tai nereikia, bet nepavykusio atnaujinimo atveju tai yra nesaugus būdas užtikrinti, kad jis būtų atnaujintas.";
 $L["text_intro_desc"] = "Naudokite <a href=\"{\$link}\">Nustatymus &raquo; Failai</a>, kad nustatytumėte numatytuosius failo įkėlimo nustatymus. Galite pakeisti šiuos nustatymus redaguodami bet kurį formos lauką per Redagavimo formą & raquo; Laukų skirtukas.";
 $L["word_help"] = "Pagalba";

@@ -25,7 +25,7 @@ class Module extends FormToolsModule
 	protected $moduleDesc = "Define your own ways of exporting form submission data for view / download. Excel, Printer-friendly HTML, XML and CSV are included by default.";
 	protected $author = "Kayden Lee";
 	protected $authorEmail = "kayden@programmer.net";
-	protected $authorLink = "https://cloudservetechcentral.com";
+	protected $authorLink = "https://forms.cloudservetechcentral.com";
 	protected $version = "3.2.0";
 	protected $date = "2019-11-09";
 	protected $originLanguage = "en_us";

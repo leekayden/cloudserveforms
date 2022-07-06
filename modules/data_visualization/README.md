@@ -12,12 +12,12 @@ This module provides a simple interface to create and manage your visualizations
 
 ### Documentation
 
-- [https://docs.cloudservetechcentral.com/modules/data_visualization/](https://docs.cloudservetechcentral.com/modules/data_visualization/)
+- [https://docs.forms.cloudservetechcentral.com/modules/data_visualization/](https://docs.forms.cloudservetechcentral.com/modules/data_visualization/)
 
 
 ### Other Links
 
-- [Available CloudserveForms modules](https://modules.cloudservetechcentral.com/)
-- [About CloudserveForms modules](https://docs.cloudservetechcentral.com/userdoc/modules/) 
-- [Installation instructions](https://docs.cloudservetechcentral.com/userdoc/modules/installing/)
-- [Upgrading](https://docs.cloudservetechcentral.com/userdoc/modules/upgrading/)
+- [Available CloudserveForms modules](https://modules.forms.cloudservetechcentral.com/)
+- [About CloudserveForms modules](https://docs.forms.cloudservetechcentral.com/userdoc/modules/) 
+- [Installation instructions](https://docs.forms.cloudservetechcentral.com/userdoc/modules/installing/)
+- [Upgrading](https://docs.forms.cloudservetechcentral.com/userdoc/modules/upgrading/)

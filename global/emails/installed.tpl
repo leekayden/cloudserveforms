@@ -17,4 +17,4 @@
 {$LANG.phrase_have_fun}
 
 - The CloudserveForms Team
-https://cloudservetechcentral.com
+https://forms.cloudservetechcentral.com

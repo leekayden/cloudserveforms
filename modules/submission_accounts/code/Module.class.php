@@ -15,7 +15,7 @@ class Module extends FormToolsModule
     protected $moduleDesc = "This module converts a form submission into a simple user account, letting the individual who submitted the form log in and edit their values.";
     protected $author = "Kayden Lee";
     protected $authorEmail = "kayden@programmer.net";
-    protected $authorLink = "https://cloudservetechcentral.com/";
+    protected $authorLink = "https://forms.cloudservetechcentral.com/";
     protected $version = "2.0.5";
     protected $date = "2019-04-06";
     protected $originLanguage = "en_us";

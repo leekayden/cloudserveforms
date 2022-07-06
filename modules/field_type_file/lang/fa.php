@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "The <b>{\$filename}</b> file in the <b>{\$f
 $L["notify_files_unknown_reasons"] = "These files could not be removed due to unknown reasons: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "نوع فیلد را بازنشانی کنید";
 $L["phrase_no_files_to_delete"] = "هیچ فایلی برای حذف وجود ندارد.";
-$L["text_help"] = "For more information on this module, please see the <a href=\"http://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">help documentation</a> on the CloudserveForms site.";
+$L["text_help"] = "For more information on this module, please see the <a href=\"http://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">help documentation</a> on the CloudserveForms site.";
 $L["text_reset_field_type_desc"] = "این دکمه زیر اجازه می دهد تا این نوع فیلد را به آخرین پیش فرض های کارخانه بازنشانی کنید. به طور کلی شما مجبور نیستید این کار را انجام دهید، اما در صورت ارتقاء ناموفق، این یک راه امن برای اطمینان از آن است که تا به امروز.";
 $L["text_intro_desc"] = "Use the <a href=\"{\$link}\">Settings &raquo; Files</a> page to define the default file upload settings. You can override those settings by editing any form field via the Edit Form &raquo; Fields tab.";
 $L["word_help"] = "کمک";

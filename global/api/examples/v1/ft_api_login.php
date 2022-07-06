@@ -18,7 +18,7 @@ if (isset($_POST["username"])) {
 
 <h4>Documentation</h4>
 
-See: <a href="https://docs.cloudservetechcentral.com/api/ft_api_login/" target="_blank">https://docs.cloudservetechcentral.com/api/ft_api_login/</a>
+See: <a href="https://docs.forms.cloudservetechcentral.com/api/ft_api_login/" target="_blank">https://docs.forms.cloudservetechcentral.com/api/ft_api_login/</a>
 
 <hr size="1" />
 

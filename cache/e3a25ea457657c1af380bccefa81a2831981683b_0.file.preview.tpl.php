@@ -626,7 +626,7 @@ px;
       <h3>Help Documentation</h3>
       <p>
         This section contains some information and tips about the Form Builder window. If you can't find the information you're looking for here,
-        you may want to visit the <a href="http://modules.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a> for a more
+        you may want to visit the <a href="http://modules.forms.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a> for a more
         complete discussion of all aspects of the module.
       </p>
       <p>
@@ -721,7 +721,7 @@ px;
       <p>
         For a more in-depth look at template sets, choose the Form Builder module from your Modules page, select a Template Set and
         click around the interface to see how it's put together. You can also see the
-        <a href="http://modules.cloudservetechcentral.com/form_builder/" target="_blank">online documentation</a> for further documentation help.
+        <a href="http://modules.forms.cloudservetechcentral.com/form_builder/" target="_blank">online documentation</a> for further documentation help.
       </p>
     </div>
 
@@ -925,7 +925,7 @@ px;
 			</p>
 
 			<p>
-			  Please see our <a href="http://modules.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a>
+			  Please see our <a href="http://modules.forms.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a>
 			  for more information about templates.
 			</p>
 
@@ -945,7 +945,7 @@ px;
 			</p>
 
 			<p>
-			  Please see our <a href="http://modules.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a>
+			  Please see our <a href="http://modules.forms.cloudservetechcentral.com/form_builder/" target="_blank">online help documentation</a>
 			  for more information about placeholders.
 			</p>
 
@@ -1031,9 +1031,9 @@ px;
       <h3>Getting More Help</h3>
 
       <p>
-        Still stuck, or have a question? First off, check out our <a href="http://modules.cloudservetechcentral.com/form_builder/" target="_blank">online
+        Still stuck, or have a question? First off, check out our <a href="http://modules.forms.cloudservetechcentral.com/form_builder/" target="_blank">online
         documentation</a> - it contains a lot more information and help. Secondly, feel free to ask a question in
-        our <a href="http://forums.cloudservetechcentral.com" target="_blank">forums</a>.
+        our <a href="http://forums.forms.cloudservetechcentral.com" target="_blank">forums</a>.
       </p>
 
     </div>

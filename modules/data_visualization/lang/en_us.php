@@ -168,7 +168,7 @@ $L["phrase_all_time"] = "All time";
 
 $L["text_pages_module_intro"] = "This module is compatible with the Pages module. You can embed any visualization into a Page by copying and pasting the code below - or, just click the button below to automatically create and configure a new page containing this visualization.";
 $L["text_no_visualizations"] = "There are no visualizations set up yet. Click the button below to get started!";
-$L["text_help"] = "Please see our <a href=\"https://docs.cloudservetechcentral.com/modules/data_visualization/\" target=\"_blank\">online help documentation</a> for information on how to use this module.";
+$L["text_help"] = "Please see our <a href=\"https://docs.forms.cloudservetechcentral.com/modules/data_visualization/\" target=\"_blank\">online help documentation</a> for information on how to use this module.";
 $L["text_no_visualization_found_in_search"] = "Sorry, no visualizations were found. Try broadening your search criteria.";
 $L["text_activity_chart_desc"] = "<b>Activity Charts</b> graph the activity on your forms. You can choose from Line, Area or Column Charts.";
 $L["text_field_chart_desc"] = "<b>Field Charts</b> graph the distribution of content within a single form field. You can choose from Pie, Bar or Column Charts.";

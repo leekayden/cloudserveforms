@@ -8,8 +8,8 @@ This repo contains the CloudserveForms API, providing some convenience methods t
 
 The API documentation is pretty thorough. Please refer to one of the following sections:
 
-- [API v1.x](https://docs.cloudservetechcentral.com/api/) - current version, but soon to be legacy
-- [API v2.x](https://docs.cloudservetechcentral.com/api/v2) - this is coming (very) soon
+- [API v1.x](https://docs.forms.cloudservetechcentral.com/api/) - current version, but soon to be legacy
+- [API v2.x](https://docs.forms.cloudservetechcentral.com/api/v2) - this is coming (very) soon
 
 ## API v1.x vs. v2.x
 
@@ -24,7 +24,7 @@ changed has the way you call the API methods_.
 The documentation links above contains in-page example code for all the methods, but for something more hands-on
 check out the `examples/` folder in this repo. That contains some simple, bare-bones examples (no CSS!) of some of the
 API methods that can easily be shown. Other methods such as the form integration methods need additional work to
-configure CloudserveForms - so couldn't be included. See the [tutorials](https://docs.cloudservetechcentral.com/tutorials/) for further 
+configure CloudserveForms - so couldn't be included. See the [tutorials](https://docs.forms.cloudservetechcentral.com/tutorials/) for further 
 info on them.
 
 The`v1/` folder contains the old CloudserveForms 2.x compatible API methods (version 1.x of the API); the `v2/`
@@ -37,7 +37,7 @@ compatibility with their existing API forms and usage.
 - Create a form in CloudserveForms - it doesn't matter if it's an internal, external or Form Builder form. Many of
 the CloudserveForms API methods rely on passing form IDs, view IDs and more. As such you may find you will need
 to edit these examples to pass the IDs/settings that are correct for your installation and forms.
-- The CloudserveForms download packages from (cloudservetechcentral.com)[https://cloudservetechcentral.com/download/] all include the API as 
+- The CloudserveForms download packages from (forms.cloudservetechcentral.com)[https://forms.cloudservetechcentral.com/download/] all include the API as 
 part of the bundle, but if you're getting the code from the source github repos, be sure to upload the contents of 
 the latest [API package version](https://github.com/formtools/api/releases) to your `[CloudserveForms root]/global/api/ folder`. 
 - Edit the `examples-config.php` file in this folder to set the `$examples_enabled = true;` variable. The examples
@@ -47,5 +47,5 @@ to the api.php/API.class.php file.
 
 ## Getting help
 
-Check out the [CloudserveForms forums](https://forums.cloudservetechcentral.com.  If you think you've found a bug - please report it here 
+Check out the [CloudserveForms forums](https://forums.forms.cloudservetechcentral.com.  If you think you've found a bug - please report it here 
 on the github repo. Thanks!

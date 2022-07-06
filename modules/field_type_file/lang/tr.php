@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$folder}</b> klasöründeki <b>{\$file
 $L["notify_files_unknown_reasons"] = "Bu dosyalar bilinmeyen nedenlerden dolayı kaldırılamadı: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Alan Tipini Sıfırla";
 $L["phrase_no_files_to_delete"] = "Silinecek dosya yok.";
-$L["text_help"] = "Bu modül hakkında daha fazla bilgi için, lütfen Form Araçları sitesindeki <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">yardım belgelerine</a> bakın.";
+$L["text_help"] = "Bu modül hakkında daha fazla bilgi için, lütfen Form Araçları sitesindeki <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">yardım belgelerine</a> bakın.";
 $L["text_reset_field_type_desc"] = "Aşağıdaki düğme, bu alan türünü en son fabrika ayarlarına sıfırlamanızı sağlar. Genelde bunu yapmak zorunda değilsiniz, ancak başarısız bir yükseltme durumunda, güncel kalmasını sağlamak için güvenli bir yoldur.";
 $L["text_intro_desc"] = "<a href=\"{\$link}\">Ayarlar &raquo; Varsayılan dosya yükleme ayarlarını tanımlamak için Dosyalar</a> sayfası. Herhangi bir form alanını Formu Düzenle ile düzenleyerek bu ayarları geçersiz kılabilirsiniz. Alanlar sekmesi.";
 $L["word_help"] = "yardım et";

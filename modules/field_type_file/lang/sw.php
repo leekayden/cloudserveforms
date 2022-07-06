@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Faili ya <b>{\$filename}</b> kwenye folda y
 $L["notify_files_unknown_reasons"] = "Faili hizi hazikuweza kuondolewa kutokana na sababu zisizojulikana: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Weka upya aina ya shamba";
 $L["phrase_no_files_to_delete"] = "Hakuna faili za kufuta.";
-$L["text_help"] = "Kwa maelezo zaidi juu ya moduli hii, tafadhali angalia <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">nyaraka za usaidizi</a> kwenye tovuti ya Vifaa vya Fomu.";
+$L["text_help"] = "Kwa maelezo zaidi juu ya moduli hii, tafadhali angalia <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">nyaraka za usaidizi</a> kwenye tovuti ya Vifaa vya Fomu.";
 $L["text_reset_field_type_desc"] = "Kifungo hiki hapa chini kinakuwezesha upya aina hii ya shamba kwa vifupisho vya hivi karibuni vya kiwanda. Kwa ujumla huna kufanya hivyo, lakini ikiwa kuna kushindwa kuboresha hii ni njia ya kushindwa kuhakikisha kuwa inakaribia.";
 $L["text_intro_desc"] = "Tumia <a href=\"{\$link}\">Mipangilio &raquo; Files</a> ukurasa ili kufafanua mipangilio ya kupakia faili ya default. Unaweza kuhariri mipangilio hiyo kwa kuhariri uwanja wowote wa fomu kupitia Fomu ya Uhariri &raquo; Tabia ya shamba.";
 $L["word_help"] = "Msaada";

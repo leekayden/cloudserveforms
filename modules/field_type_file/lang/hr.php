@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Datoteka <b>{\$filename}</b> u mapi <b>{\$f
 $L["notify_files_unknown_reasons"] = "Te datoteke nije moguće ukloniti zbog nepoznatih razloga: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Resetiraj vrstu polja";
 $L["phrase_no_files_to_delete"] = "Nema datoteka za brisanje.";
-$L["text_help"] = "Više informacija o ovom modulu potražite u <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentaciji za pomoć</a> na web-lokaciji alata za obrasce.";
+$L["text_help"] = "Više informacija o ovom modulu potražite u <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">dokumentaciji za pomoć</a> na web-lokaciji alata za obrasce.";
 $L["text_reset_field_type_desc"] = "Ovaj gumb u nastavku omogućuje vam da vratite ovu vrstu polja na zadnje tvornički zadane. Općenito to ne morate učiniti, ali u slučaju neuspjele nadogradnje to je siguran način da se osigura da je ažuriran.";
 $L["text_intro_desc"] = "Use the <a href=\"{\$link}\">Settings &raquo; Files</a> page to define the default file upload settings. You can override those settings by editing any form field via the Edit Form &raquo; Fields tab.";
 $L["word_help"] = "Pomozite";

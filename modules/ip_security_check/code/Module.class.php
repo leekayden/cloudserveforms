@@ -13,7 +13,7 @@ class Module extends FormToolsModule
     protected $moduleDesc = "This module adds an additional security layer to Form Tools user accounts, letting you maintain a whitelist or blacklist of IP addresses.";
     protected $author = "Kayden Lee";
     protected $authorEmail = "kayden@programmer.net";
-    protected $authorLink = "https://cloudservetechcentral.com";
+    protected $authorLink = "https://forms.cloudservetechcentral.com";
     protected $version = "2.0.4";
     protected $date = "2019-01-30";
     protected $originLanguage = "en_us";

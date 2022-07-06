@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "<b>{\$file}</b> kausta <b>{\$filename}</b> 
 $L["notify_files_unknown_reasons"] = "Neid faile ei saanud teadmata põhjustel eemaldada: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Lähtesta välja tüüp";
 $L["phrase_no_files_to_delete"] = "Kustutatavaid faile pole.";
-$L["text_help"] = "Selle mooduli kohta lisateabe saamiseks vaadake <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">abivahendit</a> vormi tööriistade saidil.";
+$L["text_help"] = "Selle mooduli kohta lisateabe saamiseks vaadake <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">abivahendit</a> vormi tööriistade saidil.";
 $L["text_reset_field_type_desc"] = "See allolev nupp võimaldab teil selle välitüübi lähtestada uusimate tehase vaikesätetega. Üldiselt ei pea te seda tegema, kuid ebaõnnestunud versiooniuuenduse korral on see ebakindel viis tagada selle ajakohasus.";
 $L["text_intro_desc"] = "Kasutage <a href=\"{\$link}\">seadeid &raquo; Failide</a> vaikimisi faili üleslaadimise seadete määramiseks. Neid seadeid saab tühistada, redigeerides mis tahes vormivälja Redigeerimisvormi abil &raquo; Väljad vahekaardil.";
 $L["word_help"] = "Abi";

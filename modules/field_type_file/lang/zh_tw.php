@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "由於未知原因，無法刪除<b>{\$fold
 $L["notify_files_unknown_reasons"] = "由於未知原因，無法刪除這些文件：<b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "重置字段類型";
 $L["phrase_no_files_to_delete"] = "沒有要刪除的文件。";
-$L["text_help"] = "有關此模塊的詳細信息，請參閱表單工具站點上的<a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">幫助文檔</a>。";
+$L["text_help"] = "有關此模塊的詳細信息，請參閱表單工具站點上的<a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">幫助文檔</a>。";
 $L["text_reset_field_type_desc"] = "下面的此按鈕可讓您將此字段類型重置為最新的出廠默認值。 通常你不必這樣做，但是如果升級失敗，這是一種確保它是最新的安全方法。";
 $L["text_intro_desc"] = "使用<a href=\"{\$link}\">設置&raquo; 文件</a>頁面定義默認文件上載設置。 您可以通過編輯表格編輯任何表單字段來覆蓋這些設置&raquo; 字段選項卡。";
 $L["word_help"] = "救命";

@@ -808,7 +808,7 @@ END;
                 array("file_upload_url", ""),
                 array("file_upload_max_size", 2000),
                 array("forms_page_default_message", $LANG["text_client_welcome"]),
-                array("logo_link", "https://cloudservetechcentral.com"),
+                array("logo_link", "https://forms.cloudservetechcentral.com"),
                 array("min_password_length", ""),
                 array("num_clients_per_page", 10),
                 array("num_emails_per_page", 10),
@@ -850,7 +850,7 @@ END;
             ");
             $db->execute();
 
-            $db->query("INSERT INTO {PREFIX}themes VALUES (1, 'default', 'Default', 'yes', 'green', 'CloudserveForms', 'kayden@programmer.net', 'https://cloudservetechcentral.com', 'https://themes.cloudservetechcentral.com/', 'The default CloudserveForms theme for all new installations. It''s a green-coloured fixed-width theme requiring 1024 minimum width screens.', 'yes', '1.0.0')");
+            $db->query("INSERT INTO {PREFIX}themes VALUES (1, 'default', 'Default', 'yes', 'green', 'CloudserveForms', 'kayden@programmer.net', 'https://forms.cloudservetechcentral.com', 'https://themes.forms.cloudservetechcentral.com/', 'The default CloudserveForms theme for all new installations. It''s a green-coloured fixed-width theme requiring 1024 minimum width screens.', 'yes', '1.0.0')");
             $db->execute();
 
             $db->query("

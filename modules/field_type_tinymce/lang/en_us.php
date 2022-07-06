@@ -15,7 +15,7 @@ $L["phrase_example_editor"] = "Example Editor";
 $L["phrase_show_status_bar"] = "Show Status Bar";
 $L["phrase_allow_toolbar_resizing"] = "Allow Toolbar Resizing";
 
-$L["text_help"] = "For more information on this module, please see the <a href=\"https://docs.cloudservetechcentral.com/modules/field_type_tinymce/\" target=\"_blank\">help documentation</a> on the CloudserveForms site.";
+$L["text_help"] = "For more information on this module, please see the <a href=\"https://docs.forms.cloudservetechcentral.com/modules/field_type_tinymce/\" target=\"_blank\">help documentation</a> on the CloudserveForms site.";
 $L["text_example_wysiwyg"] = "This page controls how your rich text fields will look, based on the settings defined above. You can assign any form field to show these editors on the Edit Form -> Fields page/tab.";
 
 $L["notify_update_settings_no_field_found"] = "Uh-oh. We couldn't update your default settings because the field type wasn't found in the database. This usually means the database has gotten corrupted. Try doing a fresh installation of the module.";

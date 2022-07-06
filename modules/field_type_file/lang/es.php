@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "El archivo <b>{\$filename}</b> en la carpet
 $L["notify_files_unknown_reasons"] = "Estos archivos no se pudieron eliminar debido a razones desconocidas: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Tipo de campo de reinicio";
 $L["phrase_no_files_to_delete"] = "No hay archivos para eliminar.";
-$L["text_help"] = "Para obtener más información sobre este módulo, consulte la <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentación de ayuda</a> en el sitio de CloudserveForms.";
+$L["text_help"] = "Para obtener más información sobre este módulo, consulte la <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">documentación de ayuda</a> en el sitio de CloudserveForms.";
 $L["text_reset_field_type_desc"] = "Este botón a continuación le permite restablecer este tipo de campo a los últimos valores predeterminados de fábrica. Por lo general, no tiene que hacer esto, pero en caso de una actualización fallida, esta es una manera segura de asegurarse de que esté actualizada.";
 $L["text_intro_desc"] = "Utilice la <a href=\"{\$link}\">Configuración &raquo; Página de archivos</a> para definir la configuración de carga de archivos predeterminada. Puede anular esas configuraciones editando cualquier campo de formulario a través de Editar formulario &raquo; Pestaña campos";
 $L["word_help"] = "Ayuda";

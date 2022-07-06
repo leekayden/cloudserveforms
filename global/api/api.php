@@ -11,7 +11,7 @@
  * Please don't use this file! It will be dropped at some point. Use the API.class.php methods directly.
  *
  * Documentation:
- * https://docs.cloudservetechcentral.com/api/
+ * https://docs.forms.cloudservetechcentral.com/api/
  */
 
 require_once("API.class.php");

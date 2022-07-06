@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "Die lêer <b>{\$filename}</b> in die gids <
 $L["notify_files_unknown_reasons"] = "Hierdie lêers kon nie verwyder word weens onbekende redes: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "Stel veldtipe terug";
 $L["phrase_no_files_to_delete"] = "Geen lêers om te verwyder nie.";
-$L["text_help"] = "Vir meer inligting oor hierdie module, raadpleeg die <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hulpdokumentasie</a> op die webwerf Formularium gereedskap.";
+$L["text_help"] = "Vir meer inligting oor hierdie module, raadpleeg die <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">hulpdokumentasie</a> op die webwerf Formularium gereedskap.";
 $L["text_reset_field_type_desc"] = "Met hierdie knoppie hieronder kan u hierdie veldtipe terugstel na die nuutste fabrieksinstellings. Oor die algemeen hoef jy dit nie te doen nie, maar in die geval van 'n mislukte opgradering, is dit 'n foutiewe manier om te verseker dat dit op datum is.";
 $L["text_intro_desc"] = "Gebruik die <a href=\"{\$link}\">Instellings &raquo; Lêers</a> om die standaard lêeroplaaierinstellings te definieer. U kan daardie instellings ignoreer deur enige vormsveld te redigeer via die vorm Wysig &raquo; Velds oortjie.";
 $L["word_help"] = "Help";

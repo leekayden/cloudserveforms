@@ -80,7 +80,7 @@ $L["notify_no_export_types"] = "This group doesn't have any export types. Click 
 $L["notify_settings_updated"] = "The settings have been updated.";
 $L["notify_export_incomplete_fields"] = "Sorry, the export script didn't receive all the required fields and cannot proceed.";
 $L["notify_export_type_visibility"] = "This export type will only be displayed if the export group is visible as well!";
-$L["notify_filename_explanation"] = "This is only applicable for generated files, or export groups that define headers that prompt a file download. See the <a href=\"http://modules.cloudservetechcentral.com/export_manager/documentation.php?page=filename_placeholders\">user documentation</a> for a list of available placeholders.";
+$L["notify_filename_explanation"] = "This is only applicable for generated files, or export groups that define headers that prompt a file download. See the <a href=\"http://modules.forms.cloudservetechcentral.com/export_manager/documentation.php?page=filename_placeholders\">user documentation</a> for a list of available placeholders.";
 $L["notify_file_generated"] = "The file has been generated. <a href='{\$url}' target='_blank'>Click here</a> to view the file.";
 $L["notify_file_not_generated"] = "We were unable to create a file at this location: <b>{\$url}</b> (folder: <b>{\$folder}</b>). The most likely cause for this is that the folder specified in the <a href='{\$export_manager_settings_link}'>Export Manager &raquo; Settings</a> page is incorrect or doesn't have write permissions.";
 $L["notify_installation_problem_c"] = "There was a problem creating the tables/data for this module. Please report the following error in the forums: ";
@@ -91,7 +91,7 @@ $L["confirm_delete_export_type"] = "Are you sure you want to delete this export 
 
 $L["text_export_group_summary"] = "Add the new export group below. After this step you will be able to edit all aspects of the new export group.";
 $L["text_export_manager_intro"] = "Welcome to the Export Manager module! This module lets you control the various ways in which your form submissions can be viewed and downloaded.";
-$L["text_help_link"] = "For help on how to use this module, please see the <a href=\"https://docs.cloudservetechcentral.com/modules/export_manager/\" target=\"_blank\">module help documentation</a>.";
+$L["text_help_link"] = "For help on how to use this module, please see the <a href=\"https://docs.forms.cloudservetechcentral.com/modules/export_manager/\" target=\"_blank\">module help documentation</a>.";
 $L["text_reset_defaults"] = "This page lets you reset all the configurations for the Export Manager's export groups and types. This is convenient if you've accidentally broken something.";
 
 $L["validation_select_rows_to_export"] = "Please select those rows you would like to export.";

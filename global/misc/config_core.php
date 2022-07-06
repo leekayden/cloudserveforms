@@ -3038,7 +3038,7 @@ $FILES = array(
 	// "themes/default/images/logo_purple2x.png",
 	// "themes/default/images/logo_red2x.png",
 	// "themes/default/images/logo_yellow2x.png",
-    "themes/default/images/pcpslogo.png",
+    "themes/default/images/cloudserveforms-logo.png",
 	"themes/default/images/main_bg.jpg",
 	"themes/default/images/nav_down.jpg",
 	"themes/default/images/nav_row_bg.jpg",

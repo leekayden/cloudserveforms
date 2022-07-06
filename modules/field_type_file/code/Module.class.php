@@ -16,7 +16,7 @@ class Module extends FormToolsModule
 	protected $moduleDesc = "File upload fields for your CloudserveForms forms.";
 	protected $author = "Kayden Lee";
 	protected $authorEmail = "kayden@programmer.net";
-	protected $authorLink = "https://cloudservetechcentral.com";
+	protected $authorLink = "https://forms.cloudservetechcentral.com";
 	protected $version = "2.2.4";
 	protected $date = "2019-04-27";
 	protected $originLanguage = "en_us";

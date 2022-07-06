@@ -17,7 +17,7 @@ class Module extends CoreModule
     protected $moduleDesc = "Publish any CloudserveForms form to make it publicly available on your website.";
     protected $author = "Kayden Lee";
     protected $authorEmail = "kayden@programmer.net";
-    protected $authorLink = "https://cloudservetechcentral.com";
+    protected $authorLink = "https://forms.cloudservetechcentral.com";
     protected $version = "2.0.10";
     protected $date = "2018-06-09";
     protected $originLanguage = "en_us";
@@ -378,8 +378,8 @@ END;
         $message =<<< END
 {$L["notify_form_builder_form_created"]}
 <ul style="margin-bottom: 0px">
-  <li><a href="https://docs.cloudservetechcentral.com/modules/form_builder/usage/tutorials/" target="_blank">{$L["phrase_quick_intro"]}</a></li>
-  <li><a href="https://docs.cloudservetechcentral.com/modules/form_builder/" target="_blank">{$L["phrase_form_builder_doc"]}</a></li>
+  <li><a href="https://docs.forms.cloudservetechcentral.com/modules/form_builder/usage/tutorials/" target="_blank">{$L["phrase_quick_intro"]}</a></li>
+  <li><a href="https://docs.forms.cloudservetechcentral.com/modules/form_builder/" target="_blank">{$L["phrase_form_builder_doc"]}</a></li>
 </ul>
 END;
 

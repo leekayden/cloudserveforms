@@ -34,7 +34,7 @@ $L["notify_file_unknown_reasons"] = "A <b>{\$filename}</b> fájl a <b>{\$folder}
 $L["notify_files_unknown_reasons"] = "Ezeket a fájlokat ismeretlen okok miatt nem lehetett eltávolítani: <b>{\$file_list}</b>";
 $L["phrase_reset_field_type"] = "A mezőtípus visszaállítása";
 $L["phrase_no_files_to_delete"] = "Nincs törölni kívánt fájl.";
-$L["text_help"] = "A modulról további információért olvassa el a <a href=\"https://modules.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">súgó dokumentációt</a> az űrlapeszközök oldalán.";
+$L["text_help"] = "A modulról további információért olvassa el a <a href=\"https://modules.forms.cloudservetechcentral.com/field_type_tinymce/\" target=\"_blank\">súgó dokumentációt</a> az űrlapeszközök oldalán.";
 $L["text_reset_field_type_desc"] = "Az alábbi gomb segítségével visszaállíthatja ezt a mezőt a legújabb gyári alapértékekre. Általában nem kell ezt megtenni, de nem sikerült frissítés esetén ez nem biztonságos módja annak, hogy naprakész legyen.";
 $L["text_intro_desc"] = "Használja a <a href=\"{\$link}\">Beállítások &raquo; Fájlok</a> az alapértelmezett fájl feltöltési beállításainak meghatározásához. Ezeket a beállításokat felülírhatja bármely űrlapmező szerkesztésével a Szerkesztés űrlapon &raquo; A mezők lapja.";
 $L["word_help"] = "Segítség";

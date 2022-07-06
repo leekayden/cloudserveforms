@@ -7,7 +7,7 @@ CloudserveForms - Module Language File
 File created: Oct 24th, 2:46 AM
 
 If you would like to help translate this module, please visit:
-http://www.cloudservetechcentral.com/translations/
+http://www.forms.cloudservetechcentral.com/translations/
 */
 
 $L = array();
@@ -44,7 +44,7 @@ $L["confirm_delete_page"] = "Are you sure you want to delete this page?";
 $L["text_page_name_desc"] = "This value is used internally to help you identify the page and as the menu item label.";
 $L["text_intro_para_1"] = "The Pages module lets you to customize the CloudserveForms user interface by adding your own pages containing whatever information you or your clients need. This can be helpful if you would like to add a splash page, links page or other such information.";
 $L["text_intro_para_2"] = "After creating your page(s), go to the <a href=\"{\$url}\">Menus page</a> in the settings section to assign the page to a menu for yourself or your clients.";
-$L["text_help_link"] = "For help on how to use this module, please see the <a href=\"http://modules.cloudservetechcentral.com/pages/\">module help documentation</a>.";
+$L["text_help_link"] = "For help on how to use this module, please see the <a href=\"http://modules.forms.cloudservetechcentral.com/pages/\">module help documentation</a>.";
 
 $L["notify_settings_updated"] = "Your settings have been updated.";
 $L["notify_no_pages"] = "Currently, you don't have any pages in the database. Click the button below to add a new page.";

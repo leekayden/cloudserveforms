@@ -9,7 +9,7 @@ require_once($path_to_api_v2);
 
 <h4>Documentation</h4>
 
-See: <a href="https://docs.cloudservetechcentral.com/api/v2/updateClientAccount/" target="_blank">https://docs.cloudservetechcentral.com/api/v2/updateClientAccount/</a>
+See: <a href="https://docs.forms.cloudservetechcentral.com/api/v2/updateClientAccount/" target="_blank">https://docs.forms.cloudservetechcentral.com/api/v2/updateClientAccount/</a>
 
 <hr size="1" />
 
