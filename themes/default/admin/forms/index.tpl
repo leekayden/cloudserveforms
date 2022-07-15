@@ -284,6 +284,10 @@
     <form method="post" action="add/">
         <p>
             <input type="submit" name="new_form" value="{$LANG.phrase_add_form}"/>
+            <button class="MuiButtonBase-root MuiButton-root jss1 MuiButton-contained" tabindex="0" type="submit">
+                <span class="MuiButton-label jss4">Continue »</span>
+                <span class="MuiTouchRipple-root"></span>
+            </button>
         </p>
     </form>
 {/if}
