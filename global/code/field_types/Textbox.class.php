@@ -10,7 +10,8 @@ class Textbox
     public static function get() {
 
         $textbox_edit_field =<<< END
-<input type="text" name="{\$NAME}" value="{\$VALUE|escape}" class="{\$size}{if \$highlight} {\$highlight}{/if}"
+// <input type="text" name="{\$NAME}" value="{\$VALUE|escape}" class="{\$size}{if \$highlight} {\$highlight}{/if}"
+<input type="text" name="{\$NAME}" value="{\$VALUE|escape}" class="form-control"
   {if \$maxlength}maxlength="{\$maxlength}"{/if} />
   {if \$comments}
     <div class="cf_field_comments">{\$comments}</div>
