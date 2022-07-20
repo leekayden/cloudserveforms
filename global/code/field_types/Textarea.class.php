@@ -59,7 +59,7 @@ textarea.cf_size_tiny {
 textarea.cf_size_small {
   height: 80px;
 }
-textarea.cf_size_medium {
+textarea.form-control {
   height: 150px;
 }
 textarea.cf_size_large {
@@ -173,7 +173,7 @@ END;
 						),
 						array(
 							"option_text" => "{\$LANG.phrase_medium_150px}",
-							"option_value" => "cf_size_medium",
+							"option_value" => "form-control",
 							"is_new_sort_group" => "yes"
 						),
 						array(

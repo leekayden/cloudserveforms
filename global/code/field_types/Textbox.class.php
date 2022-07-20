@@ -53,7 +53,7 @@ END;
                 "field_type"               => "select",
                 "field_orientation"        => "na",
                 "default_value_type"       => "static",
-                "default_value"            => "cf_size_medium form-control",
+                "default_value"            => "form-control form-control",
                 "options" => array(
                     array(
                         "option_text"       => "{\$LANG.word_tiny}",
@@ -67,7 +67,7 @@ END;
                     ),
                     array(
                         "option_text"       => "{\$LANG.word_medium}",
-                        "option_value"      => "cf_size_medium",
+                        "option_value"      => "form-control",
                         "is_new_sort_group" => "yes"
                     ),
                     array(
@@ -203,7 +203,7 @@ input.cf_size_tiny {
 input.cf_size_small {
     width: 80px;
 }
-input.cf_size_medium {
+input.form-control {
     width: 150px;
 }
 input.cf_size_large {
