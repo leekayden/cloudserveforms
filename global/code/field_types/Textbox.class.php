@@ -54,7 +54,7 @@ END;
                 "field_type"               => "select",
                 "field_orientation"        => "na",
                 "default_value_type"       => "static",
-                "default_value"            => "cf_size_medium",
+                "default_value"            => "cf_size_medium form-control",
                 "options" => array(
                     array(
                         "option_text"       => "{\$LANG.word_tiny}",
