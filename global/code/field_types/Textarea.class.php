@@ -56,7 +56,7 @@ textarea {
 textarea.cf_size_tiny {
   height: 30px;
 }
-textarea.cf_size_small {
+textarea.form-control {
   height: 80px;
 }
 textarea.form-control {
@@ -158,7 +158,7 @@ END;
 					"field_type" => "select",
 					"field_orientation" => "na",
 					"default_value_type" => "static",
-					"default_value" => "cf_size_small",
+					"default_value" => "form-control",
 
 					"options" => array(
 						array(
@@ -168,7 +168,7 @@ END;
 						),
 						array(
 							"option_text" => "{\$LANG.phrase_small_80px}",
-							"option_value" => "cf_size_small",
+							"option_value" => "form-control",
 							"is_new_sort_group" => "yes"
 						),
 						array(

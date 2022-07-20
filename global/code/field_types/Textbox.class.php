@@ -62,7 +62,7 @@ END;
                     ),
                     array(
                         "option_text"       => "{\$LANG.word_small}",
-                        "option_value"      => "cf_size_small",
+                        "option_value"      => "form-control",
                         "is_new_sort_group" => "yes"
                     ),
                     array(
@@ -200,7 +200,7 @@ END;
 input.cf_size_tiny {
     width: 30px;
 }
-input.cf_size_small {
+input.form-control {
     width: 80px;
 }
 input.form-control {
